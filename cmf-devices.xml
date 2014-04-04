@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="devices/intel-x86-pc/comcast/devicesettings" />
+    <project name="devices/intel-x86-pc/comcast/dtcp" />
+    <project name="devices/intel-x86-pc/comcast/gst-plugins" />
+    <project name="devices/intel-x86-pc/comcast/iarmbus" />
+    <project name="devices/intel-x86-pc/comcast/iarmmgrs" />
+    <project name="devices/intel-x86-pc/comcast/mediaframework" />
+    <project name="devices/intel-x86-pc/comcast/mediastreamer" />
+    <project name="devices/intel-x86-pc/comcast/rdkbrowser" />
+    <project name="devices/intel-x86-pc/comcast/rdklogger" />
+    <project name="devices/intel-x86-pc/comcast/recorder" />
+    <project name="devices/intel-x86-pc/comcast/servicemanager" />
+    <project name="devices/intel-x86-pc/opensource/fluendo-mpegdemux" />
+    <project name="devices/intel-x86-pc/opensource/gstreamer" />
+    <project name="devices/intel-x86-pc/opensource/linux-fusion" />
+    <project name="devices/intel-x86-pc/opensource/mongoose" />
+    <project name="devices/intel-x86-pc/opensource/tinyxml" />
+</manifest>
