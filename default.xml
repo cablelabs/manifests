@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <include name="cmf.xml"/>
+    <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
+
+    <default remote="cmf" revision="master" />
+    <include name="generic.xml"/>
+    <include name="opensource.xml"/>
 </manifest>
