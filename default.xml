@@ -2,7 +2,8 @@
 <manifest>
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
 
-    <default remote="cmf" revision="master" />
+    <default remote="cmf" revision="master" sync-j="4"/>
+
     <include name="generic.xml"/>
     <include name="opensource.xml"/>
 </manifest>
