@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project name="components/generic/build_framework" />
-    <project name="components/generic/build_scripts" />
     <project name="components/generic/closedcaption" />
     <project name="components/generic/devicesettings" />
     <project name="components/generic/diagnostics" />
     <project name="components/generic/dtcp" />
     <project name="components/generic/exthdd" />
     <project name="components/generic/gst-plugins-rdk" />
-    <project name="components/generic/iarm" />
     <project name="components/generic/iarmbus" />
     <project name="components/generic/iarmmgrs" />
-    <project name="components/generic/media_interface_lib" />
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mediaplayer" />
     <project name="components/generic/mediastreamer" />
     <project name="components/generic/mfrlibs" />
-    <project name="components/generic/mpe_os" />
     <project name="components/generic/rdk_logger" />
     <project name="components/generic/rdkapps" />
     <project name="components/generic/rdkbrowser" />
@@ -35,6 +31,5 @@
     <project name="components/generic/tools" />
     <project name="components/generic/tr69" />
     <project name="components/generic/trm" />
-    <project name="components/generic/video_services_proxy" />
     <project name="components/generic/xupnp" />
 </manifest>

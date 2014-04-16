@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="components/restricted/cardmanager" />
-    <project name="components/restricted/commonDownloadManager" />
     <project name="components/restricted/podManager" />
 </manifest>
