@@ -11,7 +11,6 @@
     <project name="components/generic/iarmmgrs" />
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mediaplayer" />
-    <project name="components/generic/mediastreamer" />
     <project name="components/generic/mfrlibs" />
     <project name="components/generic/rdk_logger" />
     <project name="components/generic/rdkapps" />
