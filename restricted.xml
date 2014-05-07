@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
-
     <default remote="cmf" revision="master" sync-j="1"/>
-
-    <include name="generic.xml"/>
-    <include name="opensource.xml"/>
-    <include name="restricted-only.xml"/>
+    <include name="generic-components.xml"/>
+    <include name="opensource-patches.xml"/>
+    <include name="restricted-components.xml"/>
 </manifest>
