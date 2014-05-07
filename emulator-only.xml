@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    <project name="components/asp/rdkemulator" />
     <project name="devices/intel-x86-pc/generic/devicesettings" />
     <project name="devices/intel-x86-pc/generic/dtcp" />
     <project name="devices/intel-x86-pc/generic/gst-plugins-rdk" />
@@ -15,4 +16,5 @@
     <project name="devices/intel-x86-pc/opensource/linux-fusion" />
     <project name="devices/intel-x86-pc/opensource/mongoose" />
     <project name="devices/intel-x86-pc/opensource/tinyxml" />
+    <project name="projects/intel-x86-pc/rdkri" />
 </manifest>

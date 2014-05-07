@@ -15,9 +15,8 @@
     <project name="components/opensource/patches/glib-v2.24.0" />
     <project name="components/opensource/patches/gnutls-2.10.0" />
     <project name="components/opensource/patches/google-breakpad-ipdevice-r1020" />
-	<!-- <project name="components/opensource/patches/google-breakpad-ipdevice-r1238" /> -->
     <project name="components/opensource/patches/google-breakpad-r1020" />
-	<!-- <project name="components/opensource/patches/google-breakpad-r1238" /> -->
+    <project name="components/opensource/patches/google-breakpad-r1238" />
     <project name="components/opensource/patches/gssdp-0.10.0" />
     <project name="components/opensource/patches/gssdp-0.14.0" />
     <project name="components/opensource/patches/gst-fluendo-mpegdemux-0.10.69" />
