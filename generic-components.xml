@@ -5,9 +5,9 @@
     <project name="components/generic/devicesettings" />
     <project name="components/generic/diagnostics" />
     <project name="components/generic/dtcp" />
-	<!-- <project name="components/generic/dvb-patches" /> -->
+    <!-- <project name="components/generic/dvb-patches" /> -->
     <!-- <project name="components/generic/dvb-subtitles" /> -->
-	<!-- <project name="components/generic/dvb-teletext" /> -->
+    <!-- <project name="components/generic/dvb-teletext" /> -->
     <project name="components/generic/exthdd" />
     <project name="components/generic/gst-plugins-rdk" />
     <project name="components/generic/iarmbus" />
@@ -31,8 +31,8 @@
     <project name="components/generic/sys_mon_tools/sys_resource" />
     <project name="components/generic/sysint" />
     <project name="components/generic/tools" />
-	<!-- <project name="components/generic/tr69" /> -->
-	<!-- <project name="components/generic/tr69hostif" /> -->
+    <!-- <project name="components/generic/tr69" /> -->
+    <!-- <project name="components/generic/tr69hostif" /> -->
     <project name="components/generic/trm" />
     <project name="components/generic/xupnp" />
 </manifest>
