@@ -4,5 +4,5 @@
     <default remote="cmf" revision="master" sync-j="1"/>
     <include name="generic-components.xml"/>
     <include name="opensource-patches.xml"/>
-    <include name="tools.xml"/>
+    <!-- <include name="tools.xml"/> -->
 </manifest>
