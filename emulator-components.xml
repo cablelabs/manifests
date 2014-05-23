@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="components/asp/rdkemulator" />
+    <project name="components/asp/rdkemulator" path="components/generic/rdkemulator"/>
     <project name="components/generic/build_framework" />
     <project name="components/generic/closedcaption" />
     <project name="components/generic/devicesettings" />
