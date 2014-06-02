@@ -63,6 +63,5 @@
     <project name="devices/intel-x86-pc/rdkri/recorder" />
     <project name="devices/intel-x86-pc/rdkri/rmf_mediastreamer" />
     <project name="devices/intel-x86-pc/rdkri/servicemanager" />
-    <project name="projects/intel-x86-pc/meta-rdk" />
     <project name="projects/intel-x86-pc/rdkri" />
 </manifest>
