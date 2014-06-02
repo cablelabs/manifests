@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="components/generic/rdk-oe/meta-rdk-bsp-emulator"/>
     <project name="components/asp/rdkemulator" path="components/generic/rdkemulator"/>
     <project name="components/generic/build_framework" />
     <project name="components/generic/closedcaption" />
@@ -13,6 +14,14 @@
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mediaplayer" />
     <project name="components/generic/mfrlibs" />
+    <project name="components/generic/rdk-oe/bitbake" />
+    <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
+    <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
+    <project name="components/generic/rdk-oe/meta-linaro" />
+    <project name="components/generic/rdk-oe/meta-openembedded" />
+    <project name="components/generic/rdk-oe/meta-qt5" />
+    <project name="components/generic/rdk-oe/meta-rdk" />
+    <project name="components/generic/rdk-oe/openembedded-core" />
     <project name="components/generic/rdk_logger" />
     <project name="components/generic/rdkapps" />
     <project name="components/generic/rdkbrowser" />
