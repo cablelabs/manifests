@@ -17,7 +17,8 @@
     <project name="components/generic/rdkbrowser" />
     <project name="components/generic/recorder" />
     <project name="components/generic/rmf_mediastreamer" />
-    <project name="components/generic/rmf_tools" />
+    <project name="components/generic/rmf_tools/generate_si_cache" />
+    <project name="components/generic/rmf_tools/tenableHDCP" />
     <project name="components/generic/servicemanager" />
     <project name="components/generic/sys_mon_tools/analyzers/scripts/host" />
     <project name="components/generic/sys_mon_tools/analyzers/scripts/target" />
