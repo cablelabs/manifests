@@ -13,8 +13,6 @@
     <project name="components/opensource/patches/freetype-2.3.3" />
     <project name="components/opensource/patches/glib-v2.24.0" />
     <project name="components/opensource/patches/gnutls-2.10.0" />
-    <project name="components/opensource/patches/google-breakpad-ipdevice-r1020" />
-    <project name="components/opensource/patches/google-breakpad-r1020" />
     <project name="components/opensource/patches/google-breakpad-r1238" />
     <project name="components/opensource/patches/gssdp-0.10.0" />
     <project name="components/opensource/patches/gssdp-0.14.0" />
@@ -54,7 +52,6 @@
     <project name="components/opensource/patches/pcre-8.01" />
     <project name="components/opensource/patches/pcre-8.32" />
     <project name="components/opensource/patches/qjson-0.7.1" />
-    <project name="components/opensource/patches/qt-5.0.1" />
     <project name="components/opensource/patches/qt-5.1.1" />
     <project name="components/opensource/patches/qtwebsockets-0.9.0" />
     <project name="components/opensource/patches/select2-3.2.0" />
