@@ -4,7 +4,6 @@
     <project name="components/opensource/patches/FusionDale-0.8.2" />
     <project name="components/opensource/patches/carhartl-jquery-cookie-v1.4.0-0-g3caf209" />
     <project name="components/opensource/patches/curl-7.19.6" />
-    <project name="components/opensource/patches/curl-7.33.0" />
     <project name="components/opensource/patches/dante-1.4.0" />
     <project name="components/opensource/patches/dante-1.4.0-pre1" />
     <project name="components/opensource/patches/datatables-1.9.4" />
@@ -51,7 +50,6 @@
     <project name="components/opensource/patches/neon-0.29.6" />
     <project name="components/opensource/patches/net-snmp-5.4.2" />
     <project name="components/opensource/patches/ntpclient-2010365" />
-    <project name="components/opensource/patches/opentftpspV1.66" />
     <project name="components/opensource/patches/opus-1.0.2" />
     <project name="components/opensource/patches/pcre-8.01" />
     <project name="components/opensource/patches/pcre-8.32" />
