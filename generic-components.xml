@@ -12,6 +12,7 @@
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mediaplayer" />
     <project name="components/generic/mfrlibs" />
+    <project name="components/generic/qt" />
     <project name="components/generic/rdk_logger" />
     <project name="components/generic/rdkapps" />
     <project name="components/generic/rdkbrowser" />
