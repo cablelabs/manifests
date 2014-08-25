@@ -50,6 +50,7 @@
     <project name="components/opensource/patches/qtwebsockets-0.9.0" />
     <project name="components/opensource/patches/spawn-fcgi-1.6.3" />
     <project name="components/opensource/patches/tinyxml-2.6.2" />
+    <project name="components/opensource/patches/webrtc-branch3.52-r6061" />
     <project name="components/opensource/patches/xfs-3.1.8" />
     <project name="components/opensource/patches/yajl-1.0.9" />
 </manifest>
