@@ -4,4 +4,5 @@
     <default remote="cmf" revision="master" sync-j="1"/>
     <include name="generic-components.xml"/>
     <include name="emulator-components.xml"/>
+    <project name="docs" />
 </manifest>

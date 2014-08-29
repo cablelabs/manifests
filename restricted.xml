@@ -6,4 +6,5 @@
     <include name="opensource-patches.xml"/>
     <include name="restricted-components.xml"/>
     <include name="tools.xml"/>
+    <project name="docs" />
 </manifest>
