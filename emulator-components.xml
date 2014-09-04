@@ -2,14 +2,9 @@
 <manifest>
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="components/generic/rdk-oe/meta-rdk-bsp-emulator"/>
     <project name="components/asp/rdkemulator" path="components/generic/rdkemulator"/>
-    <project name="components/generic/rdk-oe/bitbake" />
     <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
-    <project name="components/generic/rdk-oe/meta-linaro" />
-    <project name="components/generic/rdk-oe/meta-openembedded" />
-    <project name="components/generic/rdk-oe/meta-qt5" />
     <project name="components/generic/rdk-oe/meta-rdk" />
-    <project name="components/generic/rdk-oe/openembedded-core" />
     <project name="devices/intel-x86-pc/rdkri/devicesettings" />
     <project name="devices/intel-x86-pc/rdkri/dtcp" />
     <project name="devices/intel-x86-pc/rdkri/gst-plugins-rdk" />
