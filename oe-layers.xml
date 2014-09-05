@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="openembedded-core" remote="github" name="openembedded/openembedded" groups="oe,rdk" revision="master" />
+    <project path="meta-openembedded" remote="github" name="openembedded/meta-oe" groups="oe,rdk" revision="master" />
+    <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" groups="oe,rdk" revision="master" />
+</manifest>

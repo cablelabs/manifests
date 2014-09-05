@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
+    <remote name="github" fetch="https://github.com" review="" />
     <default remote="cmf" revision="master" sync-j="1"/>
+    <include name="oe-layers.xml"/>
+    <include name="oe-layers-patches.xml"/>
     <include name="generic-components.xml"/>
     <include name="emulator-components.xml"/>
     <project name="docs" />
