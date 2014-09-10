@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="openembedded-core" remote="github" name="openembedded/openembedded" groups="oe,rdk" revision="master" />
-    <project path="meta-openembedded" remote="github" name="openembedded/meta-oe" groups="oe,rdk" revision="master" />
-    <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" groups="oe,rdk" revision="master" />
+    <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" groups="oe,rdk" revision="daisy" />
+    <project path="openembedded-core/bitbake" remote="github" name="openembedded/bitbake" groups="oe,rdk" revision="1.22" />
+    <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" groups="oe,rdk" revision="daisy" />
+    <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" groups="oe,rdk" revision="daisy" />
+    <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" groups="oe,rdk" revision="daisy" />
 </manifest>

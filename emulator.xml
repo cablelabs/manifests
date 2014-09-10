@@ -2,11 +2,10 @@
 <manifest>
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
     <remote name="github" fetch="https://github.com" review="" />
+    <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <default remote="cmf" revision="master" sync-j="1"/>
     <include name="oe-layers.xml"/>
     <include name="oe-layers-patches.xml"/>
-    <!-- <include name="generic-components.xml"/> -->
-    <!-- <include name="emulator-components.xml"/> -->
     <project path="meta-rdk" name="components/generic/rdk-oe/meta-rdk" />
     <project path="meta-rdk-bsp-emulator" name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
     <project name="docs" />
