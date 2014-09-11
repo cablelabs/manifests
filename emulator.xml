@@ -6,7 +6,7 @@
     <default remote="cmf" revision="master" sync-j="1"/>
     <include name="oe-layers.xml"/>
     <include name="oe-layers-patches.xml"/>
-    <project path="meta-rdk" name="components/generic/rdk-oe/meta-rdk" />
-    <project path="meta-rdk-bsp-emulator" name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
+    <project path="meta-rdk" name="components/generic/rdk-oe/meta-rdk" revision="cmf_emulator" />
+    <project path="meta-rdk-bsp-emulator" name="components/asp/rdk-oe/meta-rdk-bsp-emulator" revision="cmf_emulator" />
     <project name="docs" />
 </manifest>
