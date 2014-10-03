@@ -7,6 +7,7 @@
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="components/generic/rdk-oe/meta-cmf" />
     <project name="components/generic/rdk-oe/meta-rdk" />
+    <project name="devices/intel-x86-pc/rdkemulator/closedcaption-hal-noop" />
     <project name="devices/intel-x86-pc/rdkemulator/devicesettings-hal-emulator" />
     <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/playersinkbin" />
     <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/qamtunersrc" />
