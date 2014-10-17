@@ -5,6 +5,10 @@
     <project name="components/generic/devicesettings" />
     <project name="components/generic/diagnostics" />
     <project name="components/generic/dtcp" />
+    <project name="components/generic/dvb/graphicsEngine" />
+    <project name="components/generic/dvb/subtitles" />
+    <project name="components/generic/dvb/teletext" />
+    <project name="components/generic/dvb/ttx_subtitle_utils" />
     <project name="components/generic/exthdd" />
     <project name="components/generic/gst-plugins-rdk" />
     <project name="components/generic/hdmicec" />
