@@ -3,6 +3,7 @@
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="components/generic/rdk-oe/meta-cmf-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="components/generic/rdk-oe/meta-rdk-bsp-emulator"/>
     <project name="components/asp/rdkemulator" path="components/generic/rdkemulator"/>
+    <project name="components/generic/rdk-oe/closedcaption-hal-sample" />
     <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="components/generic/rdk-oe/meta-cmf" />
@@ -14,8 +15,6 @@
     <project name="devices/intel-x86-pc/rdkemulator/iarmmgrs-hal-emulator" />
     <project name="devices/intel-x86-pc/rdkemulator/mediaframework" />
     <project name="devices/intel-x86-pc/rdkemulator/rdkbrowser" />
-    <project name="devices/intel-x86-pc/rdkemulator/rdkemulator-remote" />
-    <project name="devices/intel-x86-pc/rdkemulator/rdkemulator-sdk" />
     <project name="devices/intel-x86-pc/rdkemulator/servicemanager" />
     <project name="devices/intel-x86-pc/rdkemulator/tdk" />
     <project name="devices/intel-x86-pc/rdkri/devicesettings" />
@@ -30,5 +29,6 @@
     <project name="devices/intel-x86-pc/rdkri/recorder" />
     <project name="devices/intel-x86-pc/rdkri/rmf_mediastreamer" />
     <project name="devices/intel-x86-pc/rdkri/servicemanager" />
+    <project name="devices/intel-x86-pc/rdkri/sysint" />
     <project name="projects/intel-x86-pc/rdkri" />
 </manifest>
