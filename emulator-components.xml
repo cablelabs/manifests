@@ -17,6 +17,7 @@
     <project name="devices/intel-x86-pc/rdkemulator/rdkbrowser" />
     <project name="devices/intel-x86-pc/rdkemulator/servicemanager" />
     <project name="devices/intel-x86-pc/rdkemulator/tdk" />
+    <project name="devices/intel-x86-pc/rdkemulator/tr69" />
     <project name="devices/intel-x86-pc/rdkri/devicesettings" />
     <project name="devices/intel-x86-pc/rdkri/dtcp" />
     <project name="devices/intel-x86-pc/rdkri/gst-plugins-rdk" />
