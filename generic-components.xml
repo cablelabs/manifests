@@ -29,6 +29,7 @@
     <project name="components/generic/sys_mon_tools/analyzers/scripts/host" />
     <project name="components/generic/sys_mon_tools/analyzers/scripts/target" />
     <project name="components/generic/sys_mon_tools/hostdataconverter" />
+    <project name="components/generic/sys_mon_tools/iarm_event_sender" />
     <project name="components/generic/sys_mon_tools/iarm_query_powerstate" />
     <project name="components/generic/sys_mon_tools/iarm_set_powerstate" />
     <project name="components/generic/sys_mon_tools/key_simulator" />
