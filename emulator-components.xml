@@ -13,16 +13,17 @@
     <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/qamtunersrc" />
     <project name="devices/intel-x86-pc/rdkemulator/iarmmgrs-hal-emulator" />
     <project name="devices/intel-x86-pc/rdkemulator/mediaframework" />
-    <project name="devices/intel-x86-pc/rdkemulator/rdkbrowser" />
+    <project name="devices/intel-x86-pc/rdkemulator/rdkbrowser" path="components/generic/rdkbrowser/platform/rdkemulator"/>
     <project name="devices/intel-x86-pc/rdkemulator/servicemanager" />
     <project name="devices/intel-x86-pc/rdkemulator/tdk" />
-    <project name="devices/intel-x86-pc/rdkemulator/tr69" />
+    <project name="devices/intel-x86-pc/rdkemulator/tr69" path="components/generic/tr69/platform/rdkemulator"/>
+    <project name="devices/intel-x86-pc/rdkemulator/xupnp" />
     <project name="devices/intel-x86-pc/rdkri/devicesettings" />
     <project name="devices/intel-x86-pc/rdkri/dtcp" />
     <project name="devices/intel-x86-pc/rdkri/gst-plugins-rdk" />
     <project name="devices/intel-x86-pc/rdkri/iarmbus" />
     <project name="devices/intel-x86-pc/rdkri/iarmmgrs" />
-    <project name="devices/intel-x86-pc/rdkri/mediaframework" />
+    <project name="devices/intel-x86-pc/rdkri/mediaframework" path="components/generic/mediaframework/rdkri"/>
     <project name="devices/intel-x86-pc/rdkri/rdk_logger" />
     <project name="devices/intel-x86-pc/rdkri/rdkbrowser" />
     <project name="devices/intel-x86-pc/rdkri/rdkemulator" />
