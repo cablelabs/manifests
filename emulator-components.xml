@@ -9,7 +9,7 @@
     <project name="components/generic/rdk-oe/meta-rdk" path="meta-rdk"/>
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption-hal-noop" />
     <project name="devices/intel-x86-pc/rdkemulator/devicesettings-hal-emulator" />
-    <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/playersinkbin" />
+    <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/playersinkbin" path="devices/intel-x86-pc/rdkemulator/gst-plugins-playersinkbin"/>
     <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/qamtunersrc" />
     <project name="devices/intel-x86-pc/rdkemulator/iarmmgrs-hal-emulator" />
     <project name="devices/intel-x86-pc/rdkemulator/mediaframework" />
