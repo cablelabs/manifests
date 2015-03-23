@@ -6,4 +6,5 @@
     <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" groups="oe,rdk" revision="daisy" />
     <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" groups="oe,rdk" revision="daisy" />
     <project path="meta-browser" remote="github" name="OSSystems/meta-browser" groups="oe,rdk" revision="master" />
+    <project path="meta-java" remote="yocto" name="meta-java" groups="oe,rdk" revision="daisy"/>
 </manifest>
