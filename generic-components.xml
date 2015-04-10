@@ -18,7 +18,7 @@
     <project name="components/generic/mediaplayer" />
     <project name="components/generic/mfrlibs" />
     <project name="components/generic/rdk_logger" />
-    <project name="components/generic/rdkapps" />
+    <project name="components/generic/rdkapps" path="components/generic/rdkbrowser/rdkapps"/>
     <project name="components/generic/rdkbrowser" />
     <project name="components/generic/recorder" />
     <project name="components/generic/rmf_mediastreamer" />
