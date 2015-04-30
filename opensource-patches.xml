@@ -19,6 +19,7 @@
     <project name="components/opensource/patches/gst-plugins-good-0.10.25" />
     <project name="components/opensource/patches/gst-plugins-good-0.10.29" />
     <project name="components/opensource/patches/gstreamer-0.10.34" />
+    <project name="components/opensource/patches/gstreamer-0.10.36" />
     <project name="components/opensource/patches/gupnp-0.14.1" />
     <project name="components/opensource/patches/gupnp-0.19.4" />
     <project name="components/opensource/patches/gupnp-av-v0.8.0" />
@@ -48,6 +49,8 @@
     <project name="components/opensource/patches/pcre-8.32" />
     <project name="components/opensource/patches/qjson-0.7.1" />
     <project name="components/opensource/patches/qt-5.1.1" />
+    <project name="components/opensource/patches/qtbase-5.1.1" />
+    <project name="components/opensource/patches/qtwebkit-5.1.1" />
     <project name="components/opensource/patches/qtwebsockets-0.9.0" />
     <project name="components/opensource/patches/rdk-oe" />
     <project name="components/opensource/patches/spawn-fcgi-1.6.3" />
