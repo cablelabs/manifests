@@ -5,9 +5,6 @@
     <project name="components/generic/rdk-oe/closedcaption-hal-sample" />
     <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
-    <project name="components/generic/rdk-oe/meta-cmf" path="meta-cmf"/>
-    <project name="components/generic/rdk-oe/meta-cmf-qt5" path="meta-cmf-qt5"/>
-    <project name="components/generic/rdk-oe/meta-rdk" path="meta-rdk"/>
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption-hal-noop" />
     <project name="devices/intel-x86-pc/rdkemulator/devicesettings-hal-emulator" />
     <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/playersinkbin" path="devices/intel-x86-pc/rdkemulator/gst-plugins-playersinkbin"/>
