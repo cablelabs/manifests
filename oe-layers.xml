@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="components/generic/rdk-oe/meta-cmf" path="meta-cmf"/>
-    <project name="components/generic/rdk-oe/meta-cmf-qt5" path="meta-cmf-qt5"/>
-    <project name="components/generic/rdk-oe/meta-rdk" path="meta-rdk"/>
     <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" groups="oe,rdk" revision="daisy" />
     <project path="openembedded-core/bitbake" remote="github" name="openembedded/bitbake" groups="oe,rdk" revision="1.22" />
     <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" groups="oe,rdk" revision="daisy" />

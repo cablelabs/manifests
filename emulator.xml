@@ -6,6 +6,7 @@
     <remote name="yocto" fetch="git://git.yoctoproject.org" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
     <include name="oe-layers.xml"/>
+    <include name="oe-layers-rdk.xml"/>
     <include name="oe-layers-patches.xml"/>
     <include name="generic-components.xml"/>
     <include name="emulator-components.xml"/>
