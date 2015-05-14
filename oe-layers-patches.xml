@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="patches/rdk-oe" name="components/opensource/patches/rdk-oe" />
+    <project name="components/opensource/patches/rdk-oe" path="patches/rdk-oe" />
+    <project name="components/opensource/patches/qtbase-5.1.1" path="meta-cmf-qt5/recipes-qt/qt5/qtbase-5.1.1" />
+    <project name="components/opensource/patches/qtwebkit-5.1.1" path="meta-cmf-qt5/recipes-qt/qt5/qtwebkit-5.1.1" />
 </manifest>

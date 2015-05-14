@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
+    <remote name="github" fetch="https://github.com" review="" />
+    <remote name="linaro" fetch="http://git.linaro.org" review="" />
+    <remote name="yocto" fetch="git://git.yoctoproject.org" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
     <include name="oe-layers-rdk.xml"/>
     <include name="oe-layers-patches.xml"/>
