@@ -2,7 +2,6 @@
 <manifest>
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
-    <project name="components/generic/rdk-oe/closedcaption-hal-sample" />
     <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption-hal-noop" />
