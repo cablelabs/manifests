@@ -10,7 +10,9 @@
     <include name="oe-layers-patches.xml"/>
     <include name="generic-components.xml"/>
     <include name="opensource-patches.xml"/>
+    <include name="emulator-components.xml"/>
     <include name="restricted-components.xml"/>
+    <include name="restricted-emulator-components.xml"/>
     <include name="tools.xml"/>
     <project name="docs" />
 </manifest>
