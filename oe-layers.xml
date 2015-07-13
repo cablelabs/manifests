@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="fed4d140da67fc51d54b02df83882177f6ddab10" />
     <project path="openembedded-core/bitbake" remote="github" name="openembedded/bitbake" revision="1.22" />
-    <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="d3d14d3fcca7fcde362cf0b31411dc4eea6d20aa" />
-    <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" revision="f6f2d16260ae5b35828264a553c05f065aa9d7e2" />
-    <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="06008235ca752fea678953e85adaa29a491d246b" />
     <project path="meta-browser" remote="github" name="OSSystems/meta-browser" revision="63963cc56c8d0291779693e62b66cb16e5c86883" upstream="master" />
     <project path="meta-java" remote="yocto" name="meta-java" revision="d5a2a31aaad8f6bdf19860f7a858b10d7dba08b6" />
+    <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="06008235ca752fea678953e85adaa29a491d246b" />
+    <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="d3d14d3fcca7fcde362cf0b31411dc4eea6d20aa" />
+    <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" revision="f6f2d16260ae5b35828264a553c05f065aa9d7e2" />
+    <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="fed4d140da67fc51d54b02df83882177f6ddab10" />
 </manifest>
