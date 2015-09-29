@@ -2,10 +2,10 @@
 <manifest>
     <project path="openembedded-core/bitbake" remote="github" name="openembedded/bitbake" revision="1.22" />
     <project path="meta-browser" remote="github" name="OSSystems/meta-browser" revision="63963cc56c8d0291779693e62b66cb16e5c86883" upstream="master" />
-    <project path="meta-java" remote="yocto" name="meta-java" revision="66c97ae7461f4c1a13917131787bb76dc34e6b6f" upstream="master" />
+    <project path="meta-java" remote="yocto" name="meta-java" revision="ecd8de1d8a26f3c46a282aafdc48504a31e61e5c" upstream="master" />
     <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="06008235ca752fea678953e85adaa29a491d246b" upstream="daisy" />
     <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="d3d14d3fcca7fcde362cf0b31411dc4eea6d20aa" upstream="daisy" />
     <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" revision="f6f2d16260ae5b35828264a553c05f065aa9d7e2" upstream="daisy" />
-    <project path="meta-virtualization" remote="yocto" name="meta-virtualization" revision="a89c11a3d89601f6d8499bd7d0f265cf4512d772" upstream="daisy" />
-    <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="5a577ec878a15f3caaf4893b819825ffb8c81266" upstream="daisy" />
+    <project path="meta-virtualization" remote="yocto" name="meta-virtualization" revision="a89c11a3d89601f6d8499bd7d0f265cf4512d772" upstream="master" />
+    <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="e1a2540227250d854d5bba278634bcc9e7572cda" upstream="daisy" />
 </manifest>
