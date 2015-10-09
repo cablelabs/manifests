@@ -2,6 +2,8 @@
 <manifest>
     <project name="components/generic/build_framework" />
     <project name="components/generic/closedcaption" />
+    <project name="components/generic/crashupload" />
+    <project name="components/generic/dca" />
     <project name="components/generic/devicesettings" />
     <project name="components/generic/diagnostics" />
     <project name="components/generic/dtcp" />
