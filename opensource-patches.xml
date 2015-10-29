@@ -20,7 +20,6 @@
     <project name="components/opensource/patches/gst-plugins-good-0.10.29" />
     <project name="components/opensource/patches/gstreamer-0.10.34" />
     <project name="components/opensource/patches/gstreamer-0.10.36" />
-    <project name="components/opensource/patches/gstreamer-1.4.4" />
     <project name="components/opensource/patches/gupnp-0.14.1" />
     <project name="components/opensource/patches/gupnp-0.19.4" />
     <project name="components/opensource/patches/gupnp-av-v0.8.0" />
