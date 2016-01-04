@@ -6,8 +6,6 @@
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="git://git.yoctoproject.org" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
-    <include name="oe-layers-rdk.xml"/>
-    <include name="oe-layers-patches.xml"/>
     <include name="release-components.xml"/>
     <project name="docs" />
 </manifest>
