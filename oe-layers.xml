@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="openembedded-core/bitbake" remote="github" name="openembedded/bitbake" revision="1.28" />
+    <project path="openembedded-core/bitbake" remote="github" name="openembedded/bitbake" revision="1.22" />
     <project path="meta-browser" remote="github" name="OSSystems/meta-browser" revision="63963cc56c8d0291779693e62b66cb16e5c86883" upstream="master" />
     <project path="meta-java" remote="yocto" name="meta-java" revision="ecd8de1d8a26f3c46a282aafdc48504a31e61e5c" upstream="master" />
     <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="06008235ca752fea678953e85adaa29a491d246b" upstream="daisy" />
