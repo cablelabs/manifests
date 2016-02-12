@@ -27,4 +27,5 @@
     <project name="rdkb/components/opensource/ccsp/standalone" />
     <project name="rdkb/components/opensource/ccsp/utilities" />
     <project name="rdkb/components/opensource/ccsp/webui" />
+    <project name="rdkb/devices/rdkbemu/rdkbemu_xb3" />
 </manifest>
