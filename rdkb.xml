@@ -8,6 +8,7 @@
     <default remote="cmf" revision="master" sync-j="2"/>
     <include name="oe-layers.xml"/>
     <include name="oe-layers-rdk.xml"/>
+    <include name="oe-layers-rdk-emulator.xml"/>
     <include name="oe-layers-patches.xml"/>
     <include name="rdkb-components.xml"/>
 </manifest>
