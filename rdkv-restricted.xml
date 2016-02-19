@@ -8,13 +8,14 @@
     <default remote="cmf" revision="master" sync-j="2"/>
     <include name="oe-layers.xml"/>
     <include name="oe-layers-rdk.xml"/>
+    <include name="oe-layers-rdkv.xml"/>
     <include name="oe-layers-rdk-emulator.xml"/>
     <include name="oe-layers-patches.xml"/>
     <include name="oe-layers-rdkv-patches.xml"/>
-    <include name="generic-components.xml"/>
-    <include name="emulator-components.xml"/>
-    <include name="restricted-components.xml"/>
-    <include name="restricted-emulator-components.xml"/>
+    <include name="rdkv-generic-components.xml"/>
+    <include name="rdkv-emulator-components.xml"/>
+    <include name="rdkv-restricted-components.xml"/>
+    <include name="rdkv-restricted-emulator-components.xml"/>
     <include name="tools.xml"/>
     <project name="docs" />
 </manifest>

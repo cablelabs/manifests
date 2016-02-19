@@ -6,6 +6,6 @@
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="git://git.yoctoproject.org" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
-    <include name="release-components.xml"/>
+    <include name="rdkv-release-components.xml"/>
     <project name="docs" />
 </manifest>
