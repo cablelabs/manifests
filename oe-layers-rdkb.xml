@@ -4,5 +4,4 @@
     <project name="components/generic/rdk-oe/meta-cmf" remote="cmf" path="meta-cmf" />
     <project name="components/generic/rdk-oe/meta-cmf-rdkb" remote="cmf" path="meta-cmf-rdkb" />
     <project name="components/generic/rdk-oe/meta-rdk" remote="cmf" path="meta-rdk" />
-    <project name="components/opensource/patches/rdk-oe" path="patches/rdk-oe" />
 </manifest>
