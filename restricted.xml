@@ -10,6 +10,7 @@
     <include name="oe-layers-rdk.xml"/>
     <include name="oe-layers-rdk-emulator.xml"/>
     <include name="oe-layers-patches.xml"/>
+    <include name="oe-layers-rdkv-patches.xml"/>
     <include name="generic-components.xml"/>
     <include name="emulator-components.xml"/>
     <include name="restricted-components.xml"/>
