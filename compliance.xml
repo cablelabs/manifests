@@ -5,6 +5,7 @@
     <default remote="cmf" revision="master" sync-j="2"/>
 
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" />
+    <project name="components/asp/rdk-oe/meta-cmf-rdkb-bsp-emulator" />
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
     <project name="components/generic/build_framework" />
     <project name="components/generic/closedcaption" />

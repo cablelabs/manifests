@@ -9,7 +9,7 @@
     <include name="oe-layers.xml"/>
     <include name="oe-layers-rdk.xml"/>
     <include name="oe-layers-rdkv.xml"/>
-    <include name="oe-layers-rdk-emulator.xml"/>
+    <include name="oe-layers-rdkv-emulator.xml"/>
     <include name="oe-layers-patches.xml"/>
     <include name="oe-layers-rdkv-patches.xml"/>
     <include name="rdkv-generic-components.xml"/>
