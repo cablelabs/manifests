@@ -44,6 +44,7 @@
     <project name="components/generic/sys_mon_tools/iarm_query_powerstate" />
     <project name="components/generic/sys_mon_tools/iarm_set_powerstate" />
     <project name="components/generic/sys_mon_tools/key_simulator" />
+    <project name="components/generic/sys_mon_tools/mfr_utils" />
     <project name="components/generic/sys_mon_tools/power-state-monitor" />
     <project name="components/generic/sys_mon_tools/si_cache_parser" />
     <project name="components/generic/sys_mon_tools/sys_resource" />
