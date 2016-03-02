@@ -22,6 +22,7 @@
     <project name="devices/intel-x86-pc/rdkri/mediaframework" path="components/generic/mediaframework/rdkri"/>
     <project name="devices/intel-x86-pc/rdkri/rdk_logger" />
     <project name="devices/intel-x86-pc/rdkri/rdkbrowser" />
+    <project name="devices/intel-x86-pc/rdkri/rdkemulator" />
     <project name="devices/intel-x86-pc/rdkri/recorder" />
     <project name="devices/intel-x86-pc/rdkri/rmf_mediastreamer" path="components/generic/rmf_mediastreamer/platform/rdkemulator"/>
     <project name="devices/intel-x86-pc/rdkri/servicemanager" />
