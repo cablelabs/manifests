@@ -4,6 +4,8 @@
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
     <default remote="cmf" revision="master" sync-j="2"/>
 
+    <project name="components/asp/rdk-oe/meta-cmf-rdkb-bsp-emulator" />
+    <project name="components/generic/rdk-oe/meta-cmf-rdkb" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
