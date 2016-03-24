@@ -69,6 +69,7 @@
     <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/qamtunersrc" />
     <project name="devices/intel-x86-pc/rdkemulator/iarmmgrs-hal-emulator" />
     <project name="devices/intel-x86-pc/rdkemulator/mediaframework" />
+    <project name="devices/intel-x86-pc/rdkemulator/podserver/emu-podserver" />
     <project name="devices/intel-x86-pc/rdkemulator/rdkbrowser" />
     <project name="devices/intel-x86-pc/rdkemulator/servicemanager" />
     <project name="devices/intel-x86-pc/rdkemulator/tdk" />
