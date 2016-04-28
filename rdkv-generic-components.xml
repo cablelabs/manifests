@@ -39,6 +39,7 @@
     <project name="components/generic/sys_mon_tools/key_simulator" />
     <project name="components/generic/sys_mon_tools/mfr_utils" />
     <project name="components/generic/sys_mon_tools/power-state-monitor" />
+    <project name="components/generic/sys_mon_tools/rdklogctrl" />
     <project name="components/generic/sys_mon_tools/si_cache_parser" />
     <project name="components/generic/sys_mon_tools/sys_resource" />
     <project name="components/generic/sys_mon_tools/sys_utils" />
