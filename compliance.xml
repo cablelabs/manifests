@@ -93,4 +93,5 @@
     <project name="devices/raspberrypi/mediaframework" />
     <project name="devices/raspberrypi/sysint" />
     <project name="tools/tdk" />
+    <project name="tools/tdkb" />
 </manifest>
