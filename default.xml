@@ -14,6 +14,6 @@
     <include name="oe-layers-rdkv-patches.xml"/>
     <include name="rdkv-generic-components.xml"/>
     <include name="rdkv-emulator-components.xml"/>
-    <include name="tools.xml"/>
+    <include name="rdkv-tools.xml"/>
     <project name="docs" />
 </manifest>

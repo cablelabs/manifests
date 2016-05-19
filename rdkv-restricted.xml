@@ -16,6 +16,6 @@
     <include name="rdkv-emulator-components.xml"/>
     <include name="rdkv-restricted-components.xml"/>
     <include name="rdkv-restricted-emulator-components.xml"/>
-    <include name="tools.xml"/>
+    <include name="rdkv-tools.xml"/>
     <project name="docs" />
 </manifest>
