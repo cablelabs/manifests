@@ -60,8 +60,8 @@
     <project name="components/opensource/patches/qtwebkit-5.1.1" />
     <project name="components/opensource/patches/qtwebsockets-0.9.0" />
     <project name="components/opensource/patches/rdk-oe" />
-    <project name="components/opensource/westeros" />
     <project name="components/restricted/podManager" />
+    <project name="components/restricted/rdk-oe/meta-rdk-restricted" />
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption-hal-noop" />
     <project name="devices/intel-x86-pc/rdkemulator/devicesettings-hal-emulator" />
     <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/playersinkbin" />
