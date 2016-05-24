@@ -3,5 +3,4 @@
 <manifest>
     <project name="components/generic/rdk-oe/meta-cmf" remote="cmf" path="meta-cmf" />
     <project name="components/generic/rdk-oe/meta-rdk" remote="cmf" path="meta-rdk" />
-    <project name="components/restricted/rdk-oe/meta-rdk-restricted" remote="cmf" path="meta-rdk-restricted" />
 </manifest>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <project name="components/restricted/rdk-oe/meta-rdk-restricted" remote="cmf" path="meta-rdk-restricted" />
+</manifest>
