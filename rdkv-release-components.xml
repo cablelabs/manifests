@@ -26,6 +26,7 @@
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="components/generic/rdk-oe/meta-cmf" />
     <project name="components/generic/rdk-oe/meta-cmf-qt5" />
+    <project name="components/generic/rdk-oe/meta-cmf-raspberrypi" />
     <project name="components/generic/rdk-oe/meta-rdk" />
     <project name="components/generic/rdk_logger" />
     <project name="components/generic/rdkapps" />

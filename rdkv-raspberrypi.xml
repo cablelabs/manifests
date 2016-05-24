@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
+    <remote name="github" fetch="https://github.com" review="" />
+    <remote name="linaro" fetch="http://git.linaro.org" review="" />
+    <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
+    <default remote="cmf" revision="master" sync-j="2"/>
+    <include name="oe-layers.xml"/>
+    <include name="oe-layers-rdk.xml"/>
+    <include name="oe-layers-rdk-raspberrypi.xml"/>
+    <include name="oe-layers-patches.xml"/>
+    <include name="rdkv-generic-components.xml"/>
+    <include name="rdkv-tools.xml"/>
+    <project name="docs" />
+</manifest>
