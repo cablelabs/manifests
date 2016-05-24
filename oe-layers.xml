@@ -3,9 +3,11 @@
     <project path="openembedded-core/bitbake" remote="github" name="openembedded/bitbake" revision="1.28" />
     <project path="meta-browser" remote="github" name="OSSystems/meta-browser" revision="63963cc56c8d0291779693e62b66cb16e5c86883" upstream="master" />
     <project path="meta-java" remote="yocto" name="meta-java" revision="ecd8de1d8a26f3c46a282aafdc48504a31e61e5c" upstream="master" />
-    <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="06008235ca752fea678953e85adaa29a491d246b" upstream="daisy" />
-    <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="d3d14d3fcca7fcde362cf0b31411dc4eea6d20aa" upstream="daisy" />
+    <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="7390e4fd59f547f83efe128cb7040ad7c2da0d40" upstream="jethro" />
+    <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="d69386740b85b7865ea1ca844b91bbacd27041d8" upstream="jethro" />
     <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" revision="f6f2d16260ae5b35828264a553c05f065aa9d7e2" upstream="daisy" />
     <project path="meta-virtualization" remote="yocto" name="meta-virtualization" revision="a89c11a3d89601f6d8499bd7d0f265cf4512d772" upstream="master" />
-    <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="e1a2540227250d854d5bba278634bcc9e7572cda" upstream="daisy" />
+    <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="69b1e25a53255433262178b91ab3e328768ad725" upstream="jethro" />
+    <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="9912d38e97671704822d1aa05312a0439cb650d3" upstream="master" />
+    <project path="meta-metrological" remote="github" name="Metrological/meta-metrological" revision="856f2495957a0574ecd9ed3d5543a59a0fe1eac9" upstream="master" />
 </manifest>
