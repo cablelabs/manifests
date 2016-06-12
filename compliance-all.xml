@@ -150,6 +150,9 @@
     <project name="devices/intel-x86-pc/rdkri/servicemanager" />
     <project name="devices/intel-x86-pc/rdkri/sysint" />
     <project name="devices/intel-x86-pc/rdkri/tr69hostif" />
+    <project name="devices/raspberrypi/devicesettings" />
+    <project name="devices/raspberrypi/mediaframework" />
+    <project name="devices/raspberrypi/sysint" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
