@@ -6,7 +6,6 @@
 
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" />
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
-    <project name="components/generic/build_framework" />
     <project name="components/generic/closedcaption" />
     <project name="components/generic/crashupload" />
     <project name="components/generic/dca" />
@@ -17,13 +16,11 @@
     <project name="components/generic/dvb/subtitles" />
     <project name="components/generic/dvb/teletext" />
     <project name="components/generic/dvb/ttx_subtitle_utils" />
-    <project name="components/generic/exthdd" />
     <project name="components/generic/gst-plugins-rdk" />
     <project name="components/generic/hdmicec" />
     <project name="components/generic/iarmbus" />
     <project name="components/generic/iarmmgrs" />
     <project name="components/generic/mediaframework" />
-    <project name="components/generic/mediaplayer" />
     <project name="components/generic/mfrlibs" />
     <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
