@@ -6,6 +6,7 @@
     <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="642142732447482e66daf85cd8af83fc7ac95f23" upstream="krogoth" />
     <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="247b1267bbe95719cd4877d2d3cfbaf2a2f4865a" upstream="krogoth" />
     <project path="meta-virtualization" remote="yocto" name="meta-virtualization" revision="a89c11a3d89601f6d8499bd7d0f265cf4512d772" upstream="master" />
+    <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" revision="f6f2d16260ae5b35828264a553c05f065aa9d7e2" upstream="daisy" />
     <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="1d0ea655e266e7c5acc9c282fa91406fbe9bfb85" upstream="krogoth" />
     <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="9912d38e97671704822d1aa05312a0439cb650d3" upstream="master" />
     <project path="meta-metrological" remote="github" name="Metrological/meta-metrological" revision="856f2495957a0574ecd9ed3d5543a59a0fe1eac9" upstream="master" />
