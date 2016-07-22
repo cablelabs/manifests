@@ -7,8 +7,9 @@
     <remote name="yocto" fetch="git://git.yoctoproject.org" review="" />
     <default remote="github" revision="master" sync-j="2"/>
 
-    <project path="meta-metrological" remote="github" name="Comcast/meta-metrological" revision="kraj/master" upstream="kraj/master" />
     <project path="poky" remote="yocto" name="poky" revision="master" upstream="master" />
     <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="master" upstream="master" />
     <project path="meta-raspberrypi" remote="github" name="kraj/meta-raspberrypi" revision="kraj/master" upstream="kraj/master" />
+    <project path="meta-metrological" remote="github" name="Comcast/meta-metrological" revision="kraj/master" upstream="kraj/master" />
+    <project path="meta-westeros-raspberrypi" remote="cmf" name="rdkcmf/meta-westeros-raspberrypi" revision="master" upstream="master" />
 </manifest>
