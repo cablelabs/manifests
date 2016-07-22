@@ -9,7 +9,7 @@
 
     <project path="poky" remote="yocto" name="poky" revision="master" upstream="master" />
     <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="master" upstream="master" />
-    <project path="meta-raspberrypi" remote="github" name="kraj/meta-raspberrypi" revision="kraj/master" upstream="kraj/master" />
-    <project path="meta-metrological" remote="github" name="Comcast/meta-metrological" revision="kraj/master" upstream="kraj/master" />
+    <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="master" upstream="master" />
+    <project path="meta-metrological" remote="github" name="Metrological/meta-metrological" revision="master" upstream="master" />
     <project path="meta-westeros-raspberrypi" remote="cmf" name="rdkcmf/meta-westeros-raspberrypi" revision="master" upstream="master" />
 </manifest>
