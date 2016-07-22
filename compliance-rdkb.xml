@@ -8,6 +8,7 @@
     <project name="components/generic/rdk-oe/meta-cmf-rdkb" />
     <project name="devices/intel-x86-pc/rdkbemulator/sysint" />
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
+    <project name="devices/raspberrypi/tdkb" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
