@@ -12,5 +12,5 @@
     <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="master" upstream="master" />
     <project path="meta-metrological" remote="github" name="Metrological/meta-metrological" revision="master" upstream="master" />
     <project path="meta-westeros-raspberrypi" remote="cmf" name="rdkcmf/meta-westeros-raspberrypi" revision="master" upstream="master" />
-    <project name="components/opensource/westeros" />
+    <project name="components/opensource/westeros" remote="cmf" revision="master" upstream="master" />
 </manifest>
