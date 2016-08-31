@@ -10,4 +10,5 @@
     <include name="rdkb-emulator-components.xml"/>
     <include name="rdkb-tools.xml"/>
     <include name="oe-layers-rdkb-emulator.xml"/>
+    <project name="docs" />
 </manifest>
