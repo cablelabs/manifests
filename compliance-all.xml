@@ -121,7 +121,6 @@
     <project name="rdkb/components/opensource/ccsp/webui" />
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" />
     <project name="rdkb/devices/rdkbemu/rdkbemu_xb3" />
-    <project name="rdkb/docs" />
     <project name="tools/tdk" />
     <project name="tools/tdkb" />
 </manifest>
