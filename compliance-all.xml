@@ -121,11 +121,6 @@
     <project name="rdkb/components/opensource/ccsp/webui" />
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" />
     <project name="rdkb/devices/rdkbemu/rdkbemu_xb3" />
-    <project name="staging/comcast/rdkb/components/opensource/ccsp/CcspMoCA" />
-    <project name="staging/comcast/rdkb/components/opensource/ccsp/CcspSafeNAT" />
-    <project name="staging/comcast/rdkb/components/opensource/ccsp/SspCommonLibrary" />
-    <project name="staging/comcast/rdkb/components/opensource/ccsp/halinterface" />
-    <project name="staging/comcast/rdkb/components/opensource/ccsp/webui-bwg" />
     <project name="tools/tdk" />
     <project name="tools/tdkb" />
 </manifest>
