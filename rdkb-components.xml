@@ -29,5 +29,6 @@
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" path="rdkb/components/opensource/ccsp/CcspPandM/devices"/>
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" path="rdkb/components/opensource/ccsp/CcspPsm/devices"/>
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" path="rdkb/components/opensource/ccsp/CcspWifiAgent/devices"/>
+    <project name="rdkb/devices/rdkbemu/ccsp/rdkb" path="rdkb/components/opensource/ccsp/hotspot/devices"/>
     <project name="rdkb/devices/rdkbemu/rdkbemu_xb3" path="rdkb/components/opensource/ccsp/xb3"/>
 </manifest>
