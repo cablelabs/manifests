@@ -3,10 +3,10 @@
     <project path="openembedded-core/bitbake" remote="github" name="openembedded/bitbake" revision="1.30" />
     <project path="meta-browser" remote="github" name="OSSystems/meta-browser" revision="63963cc56c8d0291779693e62b66cb16e5c86883" upstream="master" />
     <project path="meta-java" remote="yocto" name="meta-java" revision="ecd8de1d8a26f3c46a282aafdc48504a31e61e5c" upstream="master" />
-    <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="krogoth" upstream="krogoth" />
-    <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="krogoth" upstream="krogoth" />
+    <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="85faf6c6824597e7fd9e2d35fc9d8da2e9f90bc7" upstream="krogoth" />
+    <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="895b25b387cae428c38990f4d2747603ee9dc92d" upstream="krogoth" />
     <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" revision="f6f2d16260ae5b35828264a553c05f065aa9d7e2" upstream="daisy" />
-    <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="krogoth" upstream="krogoth" />
-    <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="master" upstream="master" />
-    <project path="meta-metrological" remote="github" name="Metrological/meta-metrological" revision="master" upstream="master" />
+    <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="2a9f4823483b6f5decc6d504858f06f66ab9e06c" upstream="krogoth" />
+    <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="4c02c7ce07121c2f5367204445f93199d828bb10" upstream="master" />
+    <project path="meta-metrological" remote="github" name="Metrological/meta-metrological" revision="fb28836eea775e9a74b17fbcbda3b1b8d2764bb5" upstream="master" />
 </manifest>
