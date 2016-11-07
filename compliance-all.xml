@@ -68,6 +68,7 @@
     <project name="components/opensource/westeros" />
     <project name="components/restricted/podManager" />
     <project name="components/restricted/rdk-oe/meta-rdk-restricted" />
+    <project name="devices/intel-cgp/tdkb" />
     <project name="devices/intel-x86-pc/rdkbemulator/sysint" />
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption-hal-noop" />
