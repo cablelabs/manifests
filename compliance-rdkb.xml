@@ -17,9 +17,11 @@
     <project name="rdkb/components/opensource/ccsp/CcspHomeSecurity" />
     <project name="rdkb/components/opensource/ccsp/CcspLMLite" />
     <project name="rdkb/components/opensource/ccsp/CcspMisc" />
+    <project name="rdkb/components/opensource/ccsp/CcspMoCA" />
     <project name="rdkb/components/opensource/ccsp/CcspMtaAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspPandM" />
     <project name="rdkb/components/opensource/ccsp/CcspPsm" />
+    <project name="rdkb/components/opensource/ccsp/CcspSafeNAT" />
     <project name="rdkb/components/opensource/ccsp/CcspSnmpPa" />
     <project name="rdkb/components/opensource/ccsp/CcspTr069Pa" />
     <project name="rdkb/components/opensource/ccsp/CcspWecbController" />
