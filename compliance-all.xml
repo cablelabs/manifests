@@ -65,8 +65,10 @@
     <project name="components/opensource/patches/qtwebkit-5.1.1" />
     <project name="components/opensource/patches/qtwebsockets-0.9.0" />
     <project name="components/opensource/patches/rdk-oe" />
+    <project name="components/opensource/westeros" />
     <project name="components/restricted/podManager" />
     <project name="components/restricted/rdk-oe/meta-rdk-restricted" />
+    <project name="devices/intel-cgp/tdkb" />
     <project name="devices/intel-x86-pc/rdkbemulator/sysint" />
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption-hal-noop" />
@@ -95,7 +97,10 @@
     <project name="devices/intel-x86-pc/rdkri/servicemanager" />
     <project name="devices/intel-x86-pc/rdkri/sysint" />
     <project name="devices/intel-x86-pc/rdkri/tr69hostif" />
+    <project name="devices/intel-x86-pc/rdkri/westeros" />
     <project name="devices/raspberrypi/tdkb" />
+    <project name="rdk/components/generic/devicesettings" />
+    <project name="rdk/components/generic/trm" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
@@ -103,9 +108,11 @@
     <project name="rdkb/components/opensource/ccsp/CcspHomeSecurity" />
     <project name="rdkb/components/opensource/ccsp/CcspLMLite" />
     <project name="rdkb/components/opensource/ccsp/CcspMisc" />
+    <project name="rdkb/components/opensource/ccsp/CcspMoCA" />
     <project name="rdkb/components/opensource/ccsp/CcspMtaAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspPandM" />
     <project name="rdkb/components/opensource/ccsp/CcspPsm" />
+    <project name="rdkb/components/opensource/ccsp/CcspSafeNAT" />
     <project name="rdkb/components/opensource/ccsp/CcspSnmpPa" />
     <project name="rdkb/components/opensource/ccsp/CcspTr069Pa" />
     <project name="rdkb/components/opensource/ccsp/CcspWecbController" />
@@ -121,6 +128,7 @@
     <project name="rdkb/components/opensource/ccsp/webui" />
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" />
     <project name="rdkb/devices/rdkbemu/rdkbemu_xb3" />
+    <project name="rdkcmf/meta-westeros-raspberrypi" />
     <project name="tools/tdk" />
     <project name="tools/tdkb" />
 </manifest>

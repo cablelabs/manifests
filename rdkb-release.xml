@@ -5,9 +5,10 @@
     <default remote="cmf" revision="master" sync-j="2"/>
     <include name="oe-layers-rdk.xml"/>
     <include name="oe-layers-rdkb.xml"/>
-    <include name="oe-layers-rdkb-emulator.xml"/>
     <include name="oe-layers-patches.xml"/>
     <include name="rdkb-components.xml"/>
     <include name="rdkb-emulator-components.xml"/>
     <include name="rdkb-tools.xml"/>
+    <include name="oe-layers-rdkb-emulator.xml"/>
+    <project name="rdkb/docs" />
 </manifest>
