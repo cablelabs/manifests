@@ -25,6 +25,7 @@
     <project name="components/generic/iarmmgrs" />
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mfrlibs" />
+    <project name="components/generic/netsrvmgr" />
     <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="components/generic/rdk-oe/meta-cmf" />
@@ -109,6 +110,7 @@
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
     <project name="rdkb/components/opensource/ccsp/CcspDmCli" />
+    <project name="rdkb/components/opensource/ccsp/CcspEPONAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspHomeSecurity" />
     <project name="rdkb/components/opensource/ccsp/CcspLMLite" />
     <project name="rdkb/components/opensource/ccsp/CcspMisc" />
@@ -126,6 +128,7 @@
     <project name="rdkb/components/opensource/ccsp/TestAndDiagnostic" />
     <project name="rdkb/components/opensource/ccsp/Utopia" />
     <project name="rdkb/components/opensource/ccsp/hal" />
+    <project name="rdkb/components/opensource/ccsp/halinterface" />
     <project name="rdkb/components/opensource/ccsp/hotspot" />
     <project name="rdkb/components/opensource/ccsp/standalone" />
     <project name="rdkb/components/opensource/ccsp/utilities" />

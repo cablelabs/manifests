@@ -21,6 +21,7 @@
     <project name="components/generic/iarmmgrs" />
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mfrlibs" />
+    <project name="components/generic/netsrvmgr" />
     <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="components/generic/rdk-oe/meta-cmf" />
