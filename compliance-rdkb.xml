@@ -14,6 +14,7 @@
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
     <project name="rdkb/components/opensource/ccsp/CcspDmCli" />
+    <project name="rdkb/components/opensource/ccsp/CcspEPONAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspHomeSecurity" />
     <project name="rdkb/components/opensource/ccsp/CcspLMLite" />
     <project name="rdkb/components/opensource/ccsp/CcspMisc" />
@@ -31,6 +32,7 @@
     <project name="rdkb/components/opensource/ccsp/TestAndDiagnostic" />
     <project name="rdkb/components/opensource/ccsp/Utopia" />
     <project name="rdkb/components/opensource/ccsp/hal" />
+    <project name="rdkb/components/opensource/ccsp/halinterface" />
     <project name="rdkb/components/opensource/ccsp/hotspot" />
     <project name="rdkb/components/opensource/ccsp/standalone" />
     <project name="rdkb/components/opensource/ccsp/utilities" />
