@@ -17,6 +17,7 @@
     <project name="components/generic/hdmicec" />
     <project name="components/generic/iarmbus" />
     <project name="components/generic/iarmmgrs" />
+    <project name="components/generic/ledmgr" />
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mfrlibs" />
     <project name="components/generic/netsrvmgr" />
