@@ -107,6 +107,8 @@
     <project name="devices/raspberrypi/sysint" />
     <project name="devices/raspberrypi/tdkb" />
     <project name="rdk/components/generic/devicesettings" />
+    <project name="rdk/components/generic/hdmicec" />
+    <project name="rdk/components/generic/ledmgr" />
     <project name="rdk/components/generic/trm" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
