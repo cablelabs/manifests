@@ -75,6 +75,7 @@
     <project name="devices/intel-cgp/tdkb" />
     <project name="devices/intel-x86-pc/rdkbemulator/sysint" />
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
+    <project name="devices/intel-x86-pc/rdkemulator/closedcaption" />
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption-hal-noop" />
     <project name="devices/intel-x86-pc/rdkemulator/devicesettings-hal-emulator" />
     <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/playersinkbin" />
