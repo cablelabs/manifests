@@ -111,6 +111,7 @@
     <project name="rdk/components/generic/hdmicec" />
     <project name="rdk/components/generic/ledmgr" />
     <project name="rdk/components/generic/trm" />
+    <project name="rdk/components/generic/wifi" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />

@@ -102,6 +102,7 @@
     <project name="rdk/components/generic/hdmicec" />
     <project name="rdk/components/generic/ledmgr" />
     <project name="rdk/components/generic/trm" />
+    <project name="rdk/components/generic/wifi" />
     <project name="rdkcmf/meta-westeros-raspberrypi" />
     <project name="tools/tdk" />
 </manifest>
