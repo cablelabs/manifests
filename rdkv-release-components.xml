@@ -6,7 +6,6 @@
     <project name="components/generic/closedcaption" />
     <project name="components/generic/crashupload" />
     <project name="components/generic/dca" />
-    <project name="components/generic/devicesettings" />
     <project name="components/generic/diagnostics" />
     <project name="components/generic/dtcp" />
     <project name="components/generic/dvb/graphicsEngine" />
@@ -16,10 +15,8 @@
     <project name="components/generic/dvr" />
     <project name="components/generic/gst-plugins-rdk" />
     <project name="components/generic/gst-plugins-rdk-dvr" />
-    <project name="components/generic/hdmicec" />
     <project name="components/generic/iarmbus" />
     <project name="components/generic/iarmmgrs" />
-    <project name="components/generic/ledmgr" />
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mfrlibs" />
     <project name="components/generic/netsrvmgr" />
@@ -58,7 +55,6 @@
     <project name="components/generic/tools" />
     <project name="components/generic/tr69" />
     <project name="components/generic/tr69hostif" />
-    <project name="components/generic/trm" />
     <project name="components/generic/xupnp" />
     <project name="components/opensource/patches/qtbase-5.1.1" />
     <project name="components/opensource/patches/qtwebkit-5.1.1" />
