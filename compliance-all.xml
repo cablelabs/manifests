@@ -9,7 +9,6 @@
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
     <project name="components/generic/closedcaption" />
     <project name="components/generic/crashupload" />
-    <project name="components/generic/dca" />
     <project name="components/generic/diagnostics" />
     <project name="components/generic/dtcp" />
     <project name="components/generic/dvb/graphicsEngine" />
@@ -23,7 +22,6 @@
     <project name="components/generic/iarmmgrs" />
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mfrlibs" />
-    <project name="components/generic/netsrvmgr" />
     <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="components/generic/rdk-oe/meta-cmf" />
@@ -103,6 +101,7 @@
     <project name="devices/raspberrypi/mediaframework" />
     <project name="devices/raspberrypi/sysint" />
     <project name="devices/raspberrypi/tdkb" />
+    <project name="rdk/components/generic/dca" path="components/generic/dca"/>
     <project name="rdk/components/generic/devicesettings" path="components/generic/devicesettings"/>
     <project name="rdk/components/generic/hdmicec" path="components/generic/hdmicec"/>
     <project name="rdk/components/generic/ledmgr" path="components/generic/ledmgr"/>
