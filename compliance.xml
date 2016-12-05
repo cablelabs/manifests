@@ -100,6 +100,7 @@
     <project name="rdk/components/generic/devicesettings" path="components/generic/devicesettings"/>
     <project name="rdk/components/generic/hdmicec" path="components/generic/hdmicec"/>
     <project name="rdk/components/generic/ledmgr" path="components/generic/ledmgr"/>
+    <project name="rdk/components/generic/libusbctrl" path="components/generic/libusbctrl"/>
     <project name="rdk/components/generic/trm" path="components/generic/trm"/>
     <project name="rdk/components/generic/wifi" path="components/generic/wifi"/>
     <project name="rdkcmf/meta-westeros-raspberrypi" />
