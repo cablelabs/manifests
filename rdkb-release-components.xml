@@ -38,6 +38,5 @@
     <project name="rdkb/devices/raspberrypi/hal" />
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" />
     <project name="rdkb/devices/rdkbemu/rdkbemu_xb3" />
-    <project name="rdkb/docs" />
     <project name="tools/tdkb" />
 </manifest>
