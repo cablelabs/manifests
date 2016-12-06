@@ -7,6 +7,7 @@
     <project name="rdk/components/generic/hdmicec" />
     <project name="rdk/components/generic/ledmgr" />
     <project name="rdk/components/generic/libusbctrl" />
+    <project name="rdk/components/generic/media_utils" />
     <project name="rdk/components/generic/netsrvmgr" />
     <project name="rdk/components/generic/trm" />
     <project name="rdk/components/generic/wifi" />
