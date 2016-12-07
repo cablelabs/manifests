@@ -108,7 +108,17 @@
     <project name="rdk/components/generic/ledmgr" path="components/generic/ledmgr"/>
     <project name="rdk/components/generic/libusbctrl" path="components/generic/libusbctrl"/>
     <project name="rdk/components/generic/media_utils" />
+    <project name="rdk/components/generic/mocahal" path="components/generic/mocahal"/>
     <project name="rdk/components/generic/netsrvmgr" path="components/generic/netsrvmgr"/>
+    <project name="rdk/components/generic/rdkbrowser" path="components/generic/rdkbrowser"/>
+    <project name="rdk/components/generic/rmf_tools/tenableHDCP" path="components/generic/rmf_tools/tenableHDCP"/>
+    <project name="rdk/components/generic/sys_mon_tools/hostdataconverter" path="components/generic/sys_mon_tools/hostdataconverter"/>
+    <project name="rdk/components/generic/sys_mon_tools/iarm_set_powerstate" path="components/generic/sys_mon_tools/iarm_set_powerstate"/>
+    <project name="rdk/components/generic/sys_mon_tools/power-state-monitor" path="components/generic/sys_mon_tools/power-state-monitor"/>
+    <project name="rdk/components/generic/sys_mon_tools/rdklogctrl" path="components/generic/sys_mon_tools/rdklogctrl"/>
+    <project name="rdk/components/generic/sys_mon_tools/sys_utils" path="components/generic/sys_mon_tools/sys_utils"/>
+    <project name="rdk/components/generic/sys_mon_tools/udhcpc-opt43" path="components/generic/sys_mon_tools/udhcpc-opt43"/>
+    <project name="rdk/components/generic/tr69hostif" path="components/generic/tr69hostif"/>
     <project name="rdk/components/generic/trm" path="components/generic/trm"/>
     <project name="rdk/components/generic/wifi" path="components/generic/wifi"/>
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
