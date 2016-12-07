@@ -38,7 +38,7 @@
     <project name="rdkb/devices/raspberrypi/hal" />
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" />
     <project name="rdkb/devices/rdkbemu/rdkbemu_xb3" />
-    <project name="components/generic/crashupload" />
+    <project name="rdk/components/generic/crashupload" />
     <project name="components/generic/rdk_logger" />
     <project name="components/generic/sysint" />
     <project name="components/generic/sys_mon_tools/sys_resource" />
