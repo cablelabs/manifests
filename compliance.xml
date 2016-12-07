@@ -95,6 +95,7 @@
     <project name="devices/raspberrypi/devicesettings" />
     <project name="devices/raspberrypi/mediaframework" />
     <project name="devices/raspberrypi/sysint" />
+    <project name="rdk/components/generic/crashupload" path="components/generic/crashupload"/>
     <project name="rdk/components/generic/dca" path="components/generic/dca"/>
     <project name="rdk/components/generic/devicesettings" path="components/generic/devicesettings"/>
     <project name="rdk/components/generic/hdmicec" path="components/generic/hdmicec"/>
