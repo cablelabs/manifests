@@ -99,6 +99,7 @@
     <project name="rdk/components/generic/media_utils" />
     <project name="rdk/components/generic/mocahal" path="components/generic/mocahal"/>
     <project name="rdk/components/generic/netsrvmgr" path="components/generic/netsrvmgr"/>
+    <project name="rdk/components/generic/rdk_logger" path="components/generic/rdk_logger"/>
     <project name="rdk/components/generic/rdkbrowser" path="components/generic/rdkbrowser"/>
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" path="components/generic/rmf_tools/tenableHDCP"/>
     <project name="rdk/components/generic/sys_mon_tools/hostdataconverter" path="components/generic/sys_mon_tools/hostdataconverter"/>
