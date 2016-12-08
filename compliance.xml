@@ -88,6 +88,7 @@
     <project name="rdk/components/generic/dca" path="components/generic/dca"/>
     <project name="rdk/components/generic/devicesettings" path="components/generic/devicesettings"/>
     <project name="rdk/components/generic/hdmicec" path="components/generic/hdmicec"/>
+    <project name="rdk/components/generic/iarmbus" path="components/generic/iarmbus"/>
     <project name="rdk/components/generic/ledmgr" path="components/generic/ledmgr"/>
     <project name="rdk/components/generic/libusbctrl" path="components/generic/libusbctrl"/>
     <project name="rdk/components/generic/media_utils" />
@@ -96,10 +97,14 @@
     <project name="rdk/components/generic/rdk_logger" path="components/generic/rdk_logger"/>
     <project name="rdk/components/generic/rdkbrowser" path="components/generic/rdkbrowser"/>
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" path="components/generic/rmf_tools/tenableHDCP"/>
+    <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" path="components/generic/sys_mon_tools/analyzers/scripts/host"/>
+    <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/target" path="components/generic/sys_mon_tools/analyzers/scripts/target"/>
     <project name="rdk/components/generic/sys_mon_tools/hostdataconverter" path="components/generic/sys_mon_tools/hostdataconverter"/>
     <project name="rdk/components/generic/sys_mon_tools/iarm_set_powerstate" path="components/generic/sys_mon_tools/iarm_set_powerstate"/>
+    <project name="rdk/components/generic/sys_mon_tools/key_simulator" path="components/generic/sys_mon_tools/key_simulator"/>
     <project name="rdk/components/generic/sys_mon_tools/power-state-monitor" path="components/generic/sys_mon_tools/power-state-monitor"/>
     <project name="rdk/components/generic/sys_mon_tools/rdklogctrl" path="components/generic/sys_mon_tools/rdklogctrl"/>
+    <project name="rdk/components/generic/sys_mon_tools/si_cache_parser" path="components/generic/sys_mon_tools/si_cache_parser"/>
     <project name="rdk/components/generic/sys_mon_tools/sys_utils" path="components/generic/sys_mon_tools/sys_utils"/>
     <project name="rdk/components/generic/sys_mon_tools/udhcpc-opt43" path="components/generic/sys_mon_tools/udhcpc-opt43"/>
     <project name="rdk/components/generic/tr69hostif" path="components/generic/tr69hostif"/>
