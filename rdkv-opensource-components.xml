@@ -5,6 +5,7 @@
     <project name="rdk/components/generic/crashupload" />
     <project name="rdk/components/generic/dca" />
     <project name="rdk/components/generic/devicesettings" />
+    <project name="rdk/components/generic/dtcp" />
     <project name="rdk/components/generic/hdmicec" />
     <project name="rdk/components/generic/iarmbus" />
     <project name="rdk/components/generic/ledmgr" />
@@ -18,6 +19,8 @@
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" />
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/target" />
     <project name="rdk/components/generic/sys_mon_tools/hostdataconverter" />
+    <project name="rdk/components/generic/sys_mon_tools/iarm_event_sender" />
+    <project name="rdk/components/generic/sys_mon_tools/iarm_query_powerstate" />
     <project name="rdk/components/generic/sys_mon_tools/iarm_set_powerstate" />
     <project name="rdk/components/generic/sys_mon_tools/key_simulator" />
     <project name="rdk/components/generic/sys_mon_tools/power-state-monitor" />
@@ -28,4 +31,5 @@
     <project name="rdk/components/generic/tr69hostif" />
     <project name="rdk/components/generic/trm" />
     <project name="rdk/components/generic/wifi" />
+    <project name="rdk/components/generic/xupnp" />
 </manifest>
