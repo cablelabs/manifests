@@ -9,7 +9,6 @@
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
     <project name="components/generic/closedcaption" />
     <project name="components/generic/diagnostics" />
-    <project name="components/generic/dtcp" />
     <project name="components/generic/dvb/graphicsEngine" />
     <project name="components/generic/dvb/subtitles" />
     <project name="components/generic/dvb/teletext" />
@@ -35,14 +34,11 @@
     <project name="components/generic/rmf_tools/generate_si_cache" />
     <project name="components/generic/servicemanager" />
     <project name="components/generic/storagemanager" />
-    <project name="components/generic/sys_mon_tools/iarm_event_sender" />
-    <project name="components/generic/sys_mon_tools/iarm_query_powerstate" />
     <project name="components/generic/sys_mon_tools/mfr_utils" />
     <project name="components/generic/sys_mon_tools/sys_resource" />
     <project name="components/generic/sysint" />
     <project name="components/generic/tools" />
     <project name="components/generic/tr69" />
-    <project name="components/generic/xupnp" />
     <project name="components/opensource/patches/qtbase-5.1.1" />
     <project name="components/opensource/patches/qtwebkit-5.1.1" />
     <project name="components/opensource/patches/qtwebsockets-0.9.0" />
@@ -88,6 +84,7 @@
     <project name="rdk/components/generic/crashupload" path="components/generic/crashupload"/>
     <project name="rdk/components/generic/dca" path="components/generic/dca"/>
     <project name="rdk/components/generic/devicesettings" path="components/generic/devicesettings"/>
+    <project name="rdk/components/generic/dtcp" path="components/generic/dtcp"/>
     <project name="rdk/components/generic/hdmicec" path="components/generic/hdmicec"/>
     <project name="rdk/components/generic/iarmbus" path="components/generic/iarmbus"/>
     <project name="rdk/components/generic/ledmgr" path="components/generic/ledmgr"/>
@@ -101,6 +98,8 @@
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" path="components/generic/sys_mon_tools/analyzers/scripts/host"/>
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/target" path="components/generic/sys_mon_tools/analyzers/scripts/target"/>
     <project name="rdk/components/generic/sys_mon_tools/hostdataconverter" path="components/generic/sys_mon_tools/hostdataconverter"/>
+    <project name="rdk/components/generic/sys_mon_tools/iarm_event_sender" path="components/generic/sys_mon_tools/iarm_event_sender"/>
+    <project name="rdk/components/generic/sys_mon_tools/iarm_query_powerstate" path="components/generic/sys_mon_tools/iarm_query_powerstate"/>
     <project name="rdk/components/generic/sys_mon_tools/iarm_set_powerstate" path="components/generic/sys_mon_tools/iarm_set_powerstate"/>
     <project name="rdk/components/generic/sys_mon_tools/key_simulator" path="components/generic/sys_mon_tools/key_simulator"/>
     <project name="rdk/components/generic/sys_mon_tools/power-state-monitor" path="components/generic/sys_mon_tools/power-state-monitor"/>
@@ -111,6 +110,7 @@
     <project name="rdk/components/generic/tr69hostif" path="components/generic/tr69hostif"/>
     <project name="rdk/components/generic/trm" path="components/generic/trm"/>
     <project name="rdk/components/generic/wifi" path="components/generic/wifi"/>
+    <project name="rdk/components/generic/xupnp" path="components/generic/xupnp"/>
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
