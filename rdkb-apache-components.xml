@@ -26,6 +26,7 @@
     <project name="rdkb/components/opensource/ccsp/hal" />
     <project name="rdkb/components/opensource/ccsp/halinterface" />
     <project name="rdkb/components/opensource/ccsp/hotspot" />
+    <project name="rdkb/components/opensource/ccsp/servicemanager" />
     <project name="rdkb/components/opensource/ccsp/standalone" />
     <project name="rdkb/components/opensource/ccsp/utilities" />
     <project name="rdkb/components/opensource/ccsp/webui" />
