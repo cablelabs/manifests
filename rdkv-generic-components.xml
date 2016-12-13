@@ -19,7 +19,6 @@
     <project name="components/generic/rmf_tools/generate_si_cache" />
     <project name="components/generic/servicemanager" />
     <project name="components/generic/servicemanager" path="rdk/components/generic/rdkbrowser/servicemanager"/>
-    <project name="components/generic/storagemanager" />
     <project name="components/generic/sys_mon_tools/mfr_utils" />
     <project name="components/generic/sys_mon_tools/sys_resource" />
     <project name="components/generic/sysint" />

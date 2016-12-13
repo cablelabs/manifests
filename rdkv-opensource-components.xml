@@ -16,6 +16,7 @@
     <project name="rdk/components/generic/rdk_logger" />
     <project name="rdk/components/generic/rdkbrowser" />
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" />
+    <project name="rdk/components/generic/storagemanager" />
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" />
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/target" />
     <project name="rdk/components/generic/sys_mon_tools/hostdataconverter" />
@@ -23,6 +24,7 @@
     <project name="rdk/components/generic/sys_mon_tools/iarm_query_powerstate" />
     <project name="rdk/components/generic/sys_mon_tools/iarm_set_powerstate" />
     <project name="rdk/components/generic/sys_mon_tools/key_simulator" />
+    <project name="rdk/components/generic/sys_mon_tools/mfr_utils" />
     <project name="rdk/components/generic/sys_mon_tools/power-state-monitor" />
     <project name="rdk/components/generic/sys_mon_tools/rdklogctrl" />
     <project name="rdk/components/generic/sys_mon_tools/si_cache_parser" />
