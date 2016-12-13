@@ -33,7 +33,6 @@
     <project name="components/generic/rmf_mediastreamer" />
     <project name="components/generic/rmf_tools/generate_si_cache" />
     <project name="components/generic/servicemanager" />
-    <project name="components/generic/storagemanager" />
     <project name="components/generic/sys_mon_tools/mfr_utils" />
     <project name="components/generic/sys_mon_tools/sys_resource" />
     <project name="components/generic/sysint" />
@@ -95,6 +94,7 @@
     <project name="rdk/components/generic/rdk_logger" path="components/generic/rdk_logger"/>
     <project name="rdk/components/generic/rdkbrowser" path="components/generic/rdkbrowser"/>
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" path="components/generic/rmf_tools/tenableHDCP"/>
+    <project name="rdk/components/generic/storagemanager" path="components/generic/storagemanager"/>
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" path="components/generic/sys_mon_tools/analyzers/scripts/host"/>
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/target" path="components/generic/sys_mon_tools/analyzers/scripts/target"/>
     <project name="rdk/components/generic/sys_mon_tools/hostdataconverter" path="components/generic/sys_mon_tools/hostdataconverter"/>
@@ -102,6 +102,7 @@
     <project name="rdk/components/generic/sys_mon_tools/iarm_query_powerstate" path="components/generic/sys_mon_tools/iarm_query_powerstate"/>
     <project name="rdk/components/generic/sys_mon_tools/iarm_set_powerstate" path="components/generic/sys_mon_tools/iarm_set_powerstate"/>
     <project name="rdk/components/generic/sys_mon_tools/key_simulator" path="components/generic/sys_mon_tools/key_simulator"/>
+    <project name="rdk/components/generic/sys_mon_tools/mfr_utils" path="components/generic/sys_mon_tools/mfr_utils"/>
     <project name="rdk/components/generic/sys_mon_tools/power-state-monitor" path="components/generic/sys_mon_tools/power-state-monitor"/>
     <project name="rdk/components/generic/sys_mon_tools/rdklogctrl" path="components/generic/sys_mon_tools/rdklogctrl"/>
     <project name="rdk/components/generic/sys_mon_tools/si_cache_parser" path="components/generic/sys_mon_tools/si_cache_parser"/>
