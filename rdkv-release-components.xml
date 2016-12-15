@@ -12,7 +12,6 @@
     <project name="components/generic/dvr" />
     <project name="components/generic/gst-plugins-rdk" />
     <project name="components/generic/gst-plugins-rdk-dvr" />
-    <project name="components/generic/iarmmgrs" />
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mfrlibs" />
     <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
@@ -25,7 +24,6 @@
     <project name="components/generic/rdk-oe/meta-rdk-containers" />
     <project name="components/generic/rdkapps" />
     <project name="components/generic/recorder" />
-    <project name="components/generic/rmf_mediastreamer" />
     <project name="components/generic/rmf_tools/generate_si_cache" />
     <project name="components/generic/servicemanager" />
     <project name="components/generic/sys_mon_tools/sys_resource" />
@@ -76,6 +74,7 @@
     <project name="rdk/components/generic/dtcp" />
     <project name="rdk/components/generic/hdmicec" />
     <project name="rdk/components/generic/iarmbus" />
+    <project name="rdk/components/generic/iarmmgrs" />
     <project name="rdk/components/generic/ledmgr" />
     <project name="rdk/components/generic/libusbctrl" />
     <project name="rdk/components/generic/media_utils" />
@@ -83,6 +82,7 @@
     <project name="rdk/components/generic/netsrvmgr" />
     <project name="rdk/components/generic/rdk_logger" />
     <project name="rdk/components/generic/rdkbrowser" />
+    <project name="rdk/components/generic/rmf_mediastreamer" />
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" />
     <project name="rdk/components/generic/storagemanager" />
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" />

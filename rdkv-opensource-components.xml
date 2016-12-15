@@ -8,6 +8,7 @@
     <project name="rdk/components/generic/dtcp" />
     <project name="rdk/components/generic/hdmicec" />
     <project name="rdk/components/generic/iarmbus" />
+    <project name="rdk/components/generic/iarmmgrs" />
     <project name="rdk/components/generic/ledmgr" />
     <project name="rdk/components/generic/libusbctrl" />
     <project name="rdk/components/generic/media_utils" />
@@ -15,6 +16,7 @@
     <project name="rdk/components/generic/netsrvmgr" />
     <project name="rdk/components/generic/rdk_logger" />
     <project name="rdk/components/generic/rdkbrowser" />
+    <project name="rdk/components/generic/rmf_mediastreamer" />
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" />
     <project name="rdk/components/generic/storagemanager" />
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" />
