@@ -29,7 +29,6 @@
     <project name="components/generic/rdk-oe/meta-rdk-containers" />
     <project name="components/generic/rdkapps" />
     <project name="components/generic/recorder" />
-    <project name="components/generic/rmf_tools/generate_si_cache" />
     <project name="components/generic/servicemanager" />
     <project name="components/generic/sys_mon_tools/sys_resource" />
     <project name="components/generic/sysint" />
@@ -92,6 +91,7 @@
     <project name="rdk/components/generic/rdk_logger" path="components/generic/rdk_logger"/>
     <project name="rdk/components/generic/rdkbrowser" path="components/generic/rdkbrowser"/>
     <project name="rdk/components/generic/rmf_mediastreamer" path="components/generic/rmf_mediastreamer"/>
+    <project name="rdk/components/generic/rmf_tools/generate_si_cache" path="components/generic/rmf_tools/generate_si_cache"/>
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" path="components/generic/rmf_tools/tenableHDCP"/>
     <project name="rdk/components/generic/storagemanager" path="components/generic/storagemanager"/>
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" path="components/generic/sys_mon_tools/analyzers/scripts/host"/>
