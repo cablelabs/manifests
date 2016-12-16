@@ -16,7 +16,6 @@
     <project name="components/generic/recorder" />
     <project name="components/generic/servicemanager" />
     <project name="components/generic/servicemanager" path="rdk/components/generic/rdkbrowser/servicemanager"/>
-    <project name="components/generic/sys_mon_tools/sys_resource" />
     <project name="components/generic/sysint" />
     <project name="components/generic/tools" />
     <project name="components/generic/tr69" />

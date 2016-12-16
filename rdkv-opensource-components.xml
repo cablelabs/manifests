@@ -31,6 +31,7 @@
     <project name="rdk/components/generic/sys_mon_tools/power-state-monitor" />
     <project name="rdk/components/generic/sys_mon_tools/rdklogctrl" />
     <project name="rdk/components/generic/sys_mon_tools/si_cache_parser" />
+    <project name="rdk/components/generic/sys_mon_tools/sys_resource" />
     <project name="rdk/components/generic/sys_mon_tools/sys_utils" />
     <project name="rdk/components/generic/sys_mon_tools/udhcpc-opt43" />
     <project name="rdk/components/generic/tr69hostif" />
