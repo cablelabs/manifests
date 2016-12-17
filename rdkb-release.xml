@@ -42,7 +42,7 @@
     <project name="rdk/components/generic/crashupload" />
     <project name="rdk/components/generic/rdk_logger" />
     <project name="components/generic/sysint" />
-    <project name="components/generic/sys_mon_tools/sys_resource" />
+    <project name="rdkb/components/generic/sys_mon_tools/sys_resource" />
     <project name="devices/intel-x86-pc/rdkbemulator/sysint" />
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
     <project name="devices/raspberrypi/tdkb" />
