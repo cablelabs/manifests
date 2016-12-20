@@ -3,10 +3,22 @@
 <manifest>
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
     <default remote="cmf" revision="master" sync-j="2"/>
+    <project name="components/asp/rdk-oe/meta-cmf-rdkb-bsp-emulator" />
+    <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
     <project name="components/generic/rdk-oe/meta-cmf" />
-    <project name="components/generic/rdk-oe/meta-rdk" />
     <project name="components/generic/rdk-oe/meta-cmf-rdkb" />
+    <project name="components/generic/rdk-oe/meta-rdk" />
+    <project name="components/generic/sysint" />
     <project name="components/opensource/patches/rdk-oe" />
+    <project name="devices/intel-x86-pc/rdkbemulator/sysint" />
+    <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
+    <project name="devices/raspberrypi/devicesettings" />
+    <project name="devices/raspberrypi/mediaframework" />
+    <project name="devices/raspberrypi/sysint" />
+    <project name="devices/raspberrypi/tdkb" />
+    <project name="rdk/components/generic/crashupload" />
+    <project name="rdk/components/generic/rdk_logger" />
+    <project name="rdk/components/generic/sys_mon_tools/sys_resource" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
@@ -39,16 +51,8 @@
     <project name="rdkb/devices/raspberrypi/hal" />
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" />
     <project name="rdkb/devices/rdkbemu/rdkbemu_xb3" />
-    <project name="rdk/components/generic/crashupload" />
-    <project name="rdk/components/generic/rdk_logger" />
-    <project name="components/generic/sysint" />
-    <project name="rdk/components/generic/sys_mon_tools/sys_resource" />
-    <project name="devices/intel-x86-pc/rdkbemulator/sysint" />
-    <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
-    <project name="devices/raspberrypi/tdkb" />
+    <project name="rdkb/docs" />
+    <project name="rdkcmf/meta-westeros-raspberrypi" />
     <project name="tools/tdk" />
     <project name="tools/tdkb" />
-    <project name="components/asp/rdk-oe/meta-cmf-rdkb-bsp-emulator" />
-    <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
-    <project name="rdkb/docs" />
 </manifest>
