@@ -68,6 +68,7 @@
     <project name="devices/raspberrypi/devicesettings" />
     <project name="devices/raspberrypi/mediaframework" />
     <project name="devices/raspberrypi/sysint" />
+    <project name="docs" />
     <project name="rdk/components/generic/crashupload" />
     <project name="rdk/components/generic/dca" />
     <project name="rdk/components/generic/devicesettings" />
@@ -106,5 +107,4 @@
     <project name="rdk/components/generic/xupnp" />
     <project name="rdkcmf/meta-westeros-raspberrypi" />
     <project name="tools/tdk" />
-    <project name="docs" />
 </manifest>
