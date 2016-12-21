@@ -5,6 +5,7 @@
     <project name="rdk/components/generic/crashupload" />
     <project name="rdk/components/generic/dca" />
     <project name="rdk/components/generic/devicesettings" />
+    <project name="rdk/components/generic/diagnostics" />
     <project name="rdk/components/generic/dtcp" />
     <project name="rdk/components/generic/hdmicec" />
     <project name="rdk/components/generic/iarmbus" />
