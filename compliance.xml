@@ -25,7 +25,6 @@
     <project name="components/generic/rdk-oe/meta-rdk-bsp-raspberrypi" />
     <project name="components/generic/rdk-oe/meta-rdk-containers" />
     <project name="components/generic/recorder" />
-    <project name="components/generic/servicemanager" />
     <project name="components/generic/sysint" />
     <project name="components/generic/tools" />
     <project name="components/generic/tr69" />
