@@ -16,7 +16,9 @@
     <project name="rdk/components/generic/mocahal" />
     <project name="rdk/components/generic/netsrvmgr" />
     <project name="rdk/components/generic/rdk_logger" />
+    <project name="rdk/components/generic/rdkapps" path="rdk/components/generic/rdkbrowser/rdkapps"/>
     <project name="rdk/components/generic/rdkbrowser" />
+    <project name="rdk/components/generic/rdkbrowser2" />
     <project name="rdk/components/generic/rmf_mediastreamer" />
     <project name="rdk/components/generic/rmf_tools/generate_si_cache" />
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" />
