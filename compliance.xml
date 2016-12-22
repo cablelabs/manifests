@@ -86,6 +86,7 @@
     <project name="rdk/components/generic/rmf_mediastreamer" path="components/generic/rmf_mediastreamer"/>
     <project name="rdk/components/generic/rmf_tools/generate_si_cache" path="components/generic/rmf_tools/generate_si_cache"/>
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" path="components/generic/rmf_tools/tenableHDCP"/>
+    <project name="rdk/components/generic/servicemanager" path="components/generic/servicemanager"/>
     <project name="rdk/components/generic/storagemanager" path="components/generic/storagemanager"/>
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" path="components/generic/sys_mon_tools/analyzers/scripts/host"/>
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/target" path="components/generic/sys_mon_tools/analyzers/scripts/target"/>
