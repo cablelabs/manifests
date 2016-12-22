@@ -22,6 +22,8 @@
     <project name="rdk/components/generic/rmf_mediastreamer" />
     <project name="rdk/components/generic/rmf_tools/generate_si_cache" />
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" />
+    <project name="rdk/components/generic/servicemanager" />
+    <project name="rdk/components/generic/servicemanager" path="rdk/components/generic/rdkbrowser/servicemanager"/>
     <project name="rdk/components/generic/storagemanager" />
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" />
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/target" />
