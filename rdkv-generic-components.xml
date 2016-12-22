@@ -11,7 +11,6 @@
     <project name="components/generic/gst-plugins-rdk-dvr" />
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mfrlibs" />
-    <project name="components/generic/rdkapps" path="components/generic/rdkbrowser/rdkapps"/>
     <project name="components/generic/recorder" />
     <project name="components/generic/servicemanager" />
     <project name="components/generic/servicemanager" path="rdk/components/generic/rdkbrowser/servicemanager"/>
