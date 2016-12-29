@@ -82,11 +82,11 @@
     <project name="rdk/components/generic/iarmmgrs" path="components/generic/iarmmgrs"/>
     <project name="rdk/components/generic/ledmgr" path="components/generic/ledmgr"/>
     <project name="rdk/components/generic/libusbctrl" path="components/generic/libusbctrl"/>
-    <project name="rdk/components/generic/media_utils" />
+    <project name="rdk/components/generic/media_utils" path="components/generic/media_utils"/>
     <project name="rdk/components/generic/mocahal" path="components/generic/mocahal"/>
     <project name="rdk/components/generic/netsrvmgr" path="components/generic/netsrvmgr"/>
     <project name="rdk/components/generic/rdk_logger" path="components/generic/rdk_logger"/>
-    <project name="rdk/components/generic/rdkapps" path="components/generic/rdkbrowser/rdkapps"/>
+    <project name="rdk/components/generic/rdkapps" path="components/generic/rdkapps"/>
     <project name="rdk/components/generic/rdkbrowser" path="components/generic/rdkbrowser"/>
     <project name="rdk/components/generic/rdkbrowser2" path="components/generic/rdkbrowser2"/>
     <project name="rdk/components/generic/rmf_mediastreamer" path="components/generic/rmf_mediastreamer"/>
