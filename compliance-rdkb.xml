@@ -37,6 +37,7 @@
     <project name="rdkb/components/opensource/ccsp/hotspot" />
     <project name="rdkb/components/opensource/ccsp/servicemanager" />
     <project name="rdkb/components/opensource/ccsp/standalone" />
+    <project name="rdkb/components/opensource/ccsp/sysint" />
     <project name="rdkb/components/opensource/ccsp/utilities" />
     <project name="rdkb/components/opensource/ccsp/webui" />
     <project name="rdkb/devices/raspberrypi/hal" />

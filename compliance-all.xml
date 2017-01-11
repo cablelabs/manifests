@@ -27,7 +27,6 @@
     <project name="components/generic/rdk-oe/meta-rdk-bsp-raspberrypi" />
     <project name="components/generic/rdk-oe/meta-rdk-containers" />
     <project name="components/generic/recorder" />
-    <project name="components/generic/sysint" />
     <project name="components/generic/tools" />
     <project name="components/generic/tr69" />
     <project name="components/opensource/patches/qtbase-5.1.1" />
@@ -108,6 +107,7 @@
     <project name="rdk/components/generic/sys_mon_tools/sys_resource" path="components/generic/sys_mon_tools/sys_resource"/>
     <project name="rdk/components/generic/sys_mon_tools/sys_utils" path="components/generic/sys_mon_tools/sys_utils"/>
     <project name="rdk/components/generic/sys_mon_tools/udhcpc-opt43" path="components/generic/sys_mon_tools/udhcpc-opt43"/>
+    <project name="rdk/components/generic/sysint" path="components/generic/sysint"/>
     <project name="rdk/components/generic/tr69hostif" path="components/generic/tr69hostif"/>
     <project name="rdk/components/generic/trm" path="components/generic/trm"/>
     <project name="rdk/components/generic/wifi" path="components/generic/wifi"/>
@@ -139,6 +139,7 @@
     <project name="rdkb/components/opensource/ccsp/hotspot" />
     <project name="rdkb/components/opensource/ccsp/servicemanager" />
     <project name="rdkb/components/opensource/ccsp/standalone" />
+    <project name="rdkb/components/opensource/ccsp/sysint" />
     <project name="rdkb/components/opensource/ccsp/utilities" />
     <project name="rdkb/components/opensource/ccsp/webui" />
     <project name="rdkb/devices/raspberrypi/hal" />
