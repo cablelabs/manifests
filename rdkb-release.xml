@@ -8,7 +8,6 @@
     <project name="components/generic/rdk-oe/meta-cmf" />
     <project name="components/generic/rdk-oe/meta-cmf-rdkb" />
     <project name="components/generic/rdk-oe/meta-rdk" />
-    <project name="components/generic/sysint" />
     <project name="components/opensource/patches/rdk-oe" />
     <project name="devices/intel-x86-pc/rdkbemulator/sysint" />
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
@@ -46,6 +45,7 @@
     <project name="rdkb/components/opensource/ccsp/hotspot" />
     <project name="rdkb/components/opensource/ccsp/servicemanager" />
     <project name="rdkb/components/opensource/ccsp/standalone" />
+    <project name="rdkb/components/opensource/ccsp/sysint" />
     <project name="rdkb/components/opensource/ccsp/utilities" />
     <project name="rdkb/components/opensource/ccsp/webui" />
     <project name="rdkb/devices/raspberrypi/hal" />

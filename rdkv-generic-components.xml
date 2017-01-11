@@ -12,7 +12,6 @@
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mfrlibs" />
     <project name="components/generic/recorder" />
-    <project name="components/generic/sysint" />
     <project name="components/generic/tools" />
     <project name="components/generic/tr69" />
 </manifest>
