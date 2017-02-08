@@ -72,6 +72,7 @@
     <project name="devices/raspberrypi/devicesettings" />
     <project name="devices/raspberrypi/mediaframework" />
     <project name="devices/raspberrypi/sysint" />
+    <project name="devices/raspberrypi/tdk" />
     <project name="devices/raspberrypi/tdkb" />
     <project name="rdk/components/generic/crashupload" path="components/generic/crashupload"/>
     <project name="rdk/components/generic/dca" path="components/generic/dca"/>
