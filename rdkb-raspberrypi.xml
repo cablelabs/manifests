@@ -12,6 +12,7 @@
     <include name="oe-layers-patches.xml"/>
     <include name="rdkb-components.xml"/>
     <include name="rdkb-emulator-components.xml"/>
+    <include name="rdkb-shared-components.xml"/>
     <include name="rdkb-tools.xml"/>
     <include name="oe-layers-rdk-raspberrypi.xml"/>
     <project name="rdkb/docs" />
