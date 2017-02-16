@@ -16,5 +16,6 @@
     <include name="rdkv-tools.xml"/>
     <include name="oe-layers-rdk-raspberrypi.xml"/>
     <include name="rdkv-emulator-components.xml"/>
+    <include name="rdkv-raspberrypi-components.xml"/>
     <project name="docs" />
 </manifest>

@@ -15,5 +15,6 @@
     <include name="rdkb-shared-components.xml"/>
     <include name="rdkb-tools.xml"/>
     <include name="oe-layers-rdk-raspberrypi.xml"/>
+    <include name="rdkb-raspberrypi-components.xml"/>
     <project name="rdkb/docs" />
 </manifest>
