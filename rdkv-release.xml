@@ -4,6 +4,7 @@
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
     <default remote="cmf" revision="master" sync-j="2"/>
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" />
+    <project name="components/asp/rdk-oe/meta-rdk-asp" />
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
     <project name="components/generic/bluetooth" />
     <project name="components/generic/bluetooth_mgr" />
@@ -111,4 +112,5 @@
     <project name="rdk/components/generic/xupnp" />
     <project name="rdkcmf/meta-westeros-raspberrypi" />
     <project name="tools/tdk" />
+    <project name="tools/tdk-advanced" />
 </manifest>

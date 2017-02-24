@@ -4,6 +4,7 @@
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
     <default remote="cmf" revision="master" sync-j="2"/>
     <project name="components/asp/rdk-oe/meta-cmf-rdkb-bsp-emulator" />
+    <project name="components/asp/rdk-oe/meta-rdk-asp" />
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
     <project name="components/generic/rdk-oe/meta-cmf" />
     <project name="components/generic/rdk-oe/meta-cmf-rdkb" />
@@ -51,5 +52,6 @@
     <project name="rdkb/docs" />
     <project name="rdkcmf/meta-westeros-raspberrypi" />
     <project name="tools/tdk" />
+    <project name="tools/tdk-advanced" />
     <project name="tools/tdkb" />
 </manifest>
