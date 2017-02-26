@@ -8,11 +8,16 @@
     <default remote="cmf" revision="master" sync-j="2"/>
     <include name="oe-layers.xml"/>
     <include name="oe-layers-rdk.xml"/>
-    <include name="oe-layers-rdkb.xml"/>
-    <include name="oe-layers-patches.xml"/>
-    <include name="rdkb-components.xml"/>
-    <include name="rdkb-emulator-components.xml"/>
-    <include name="rdkb-tools.xml"/>
     <include name="oe-layers-rdk-raspberrypi.xml"/>
-    <project name="rdkb/docs" />
+    <include name="oe-layers-rdkv.xml"/>
+    <include name="oe-layers-rdkv-emulator.xml"/>
+    <include name="oe-layers-rdkv-patches.xml"/>
+    <include name="oe-layers-rdkv-restricted.xml"/>
+    <include name="oe-layers-patches.xml"/>
+    <include name="rdkv-emulator-components.xml"/>
+    <include name="rdkv-generic-components.xml"/>
+    <include name="rdkv-opensource-components.xml"/>
+    <include name="rdkv-raspberrypi-components.xml"/>
+    <include name="rdkv-tools.xml"/>
+    <project name="docs" />
 </manifest>
