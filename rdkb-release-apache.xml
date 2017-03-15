@@ -4,4 +4,5 @@
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
     <default remote="cmf" revision="master" sync-j="2"/>
     <include name="rdkb-apache-components.xml"/>
+    <include name="rdkb-shared-components.xml"/>
 </manifest>
