@@ -36,6 +36,7 @@
     <project name="rdkb/components/opensource/ccsp/CcspWifiAgent" />
     <project name="rdkb/components/opensource/ccsp/GwProvApp" />
     <project name="rdkb/components/opensource/ccsp/GwProvApp-ePON" />
+    <project name="rdkb/components/opensource/ccsp/PowerManager" />
     <project name="rdkb/components/opensource/ccsp/RebootManager" />
     <project name="rdkb/components/opensource/ccsp/TestAndDiagnostic" />
     <project name="rdkb/components/opensource/ccsp/Utopia" />
