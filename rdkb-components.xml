@@ -18,6 +18,7 @@
     <project name="rdkb/components/opensource/ccsp/CcspTr069Pa" />
     <project name="rdkb/components/opensource/ccsp/CcspWecbController" />
     <project name="rdkb/components/opensource/ccsp/CcspWifiAgent" />
+    <project name="rdkb/components/opensource/ccsp/FirmwareSanity" />
     <project name="rdkb/components/opensource/ccsp/GwProvApp" />
     <project name="rdkb/components/opensource/ccsp/GwProvApp-ePON" />
     <project name="rdkb/components/opensource/ccsp/PowerManager" />
