@@ -6,7 +6,7 @@
     <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="06008235ca752fea678953e85adaa29a491d246b" upstream="daisy" />
     <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="d3d14d3fcca7fcde362cf0b31411dc4eea6d20aa" upstream="daisy" />
     <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" revision="f6f2d16260ae5b35828264a553c05f065aa9d7e2" upstream="daisy" />
-    <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="44d41bf3e94c4c8fe5ad5a3650572c8d17ef36c9" upstream="master" />
+    <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="68634deeed2a930a15eedd02e6b1de7d1e014d3b" upstream="master" />
     <project path="meta-virtualization" remote="yocto" name="meta-virtualization" revision="a89c11a3d89601f6d8499bd7d0f265cf4512d772" upstream="master" />
     <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="e1a2540227250d854d5bba278634bcc9e7572cda" upstream="daisy" />
 </manifest>
