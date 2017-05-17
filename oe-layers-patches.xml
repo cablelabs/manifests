@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-    <project name="components/opensource/patches/rdk-oe" path="patches/rdk-oe" revision="krogoth" upstream="krogoth" />
+    <project name="components/opensource/patches/rdk-oe" path="patches/rdk-oe" revision="morty" upstream="morty" />
 </manifest>
