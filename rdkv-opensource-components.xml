@@ -11,6 +11,7 @@
     <project name="rdk/components/generic/hdmicec" />
     <project name="rdk/components/generic/iarmbus" />
     <project name="rdk/components/generic/iarmmgrs" />
+    <project name="rdk/components/generic/injectedbundle" />
     <project name="rdk/components/generic/ledmgr" />
     <project name="rdk/components/generic/libusbctrl" />
     <project name="rdk/components/generic/media_utils" />
