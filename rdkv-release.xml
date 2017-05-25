@@ -24,6 +24,7 @@
     <project name="components/generic/rdk-oe/meta-cmf-qt5" />
     <project name="components/generic/rdk-oe/meta-cmf-raspberrypi" />
     <project name="components/generic/rdk-oe/meta-rdk" />
+    <project name="components/generic/rdk-oe/meta-rdk-broadband" />
     <project name="components/generic/rdk-oe/meta-rdk-bsp-raspberrypi" />
     <project name="components/generic/rdk-oe/meta-rdk-containers" />
     <project name="components/generic/recorder" />
