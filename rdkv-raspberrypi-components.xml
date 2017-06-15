@@ -6,4 +6,5 @@
     <project name="devices/raspberrypi/mediaframework" />
     <project name="devices/raspberrypi/sysint" />
     <project name="devices/raspberrypi/tdk" path="tools/tdk/platform/raspberrypi"/>
+    <project name="devices/raspberrypi/wifi" />
 </manifest>
