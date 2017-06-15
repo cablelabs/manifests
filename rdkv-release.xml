@@ -70,6 +70,7 @@
     <project name="devices/raspberrypi/mediaframework" />
     <project name="devices/raspberrypi/sysint" />
     <project name="devices/raspberrypi/tdk" />
+    <project name="devices/raspberrypi/wifi" />
     <project name="docs" />
     <project name="rdk/components/generic/audiocapturemgr" />
     <project name="rdk/components/generic/crashupload" />
