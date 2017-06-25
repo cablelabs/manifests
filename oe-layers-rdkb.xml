@@ -3,4 +3,5 @@
 <manifest>
     <project name="components/generic/rdk-oe/meta-cmf-rdkb" remote="cmf" path="meta-cmf-rdkb" />
     <project name="components/generic/rdk-oe/meta-rdk-broadband" remote="cmf" path="meta-rdk-broadband" />
+    <project name="components/generic/rdk-oe/meta-cmf-broadband" remote="cmf" path="meta-rdk-broadband" />
 </manifest>
