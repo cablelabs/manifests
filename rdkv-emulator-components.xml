@@ -5,6 +5,7 @@
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="components/generic/rdk-oe/meta-rdk-bsp-raspberrypi" />
     <project name="components/generic/rdk-oe/meta-rdk-containers" path="meta-rdk-containers"/>
+    <project name="components/generic/rdk-oe/meta-rdk-video" path="meta-rdk-video"/>
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption" />
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption" path="components/generic/closedcaption/platform/rdkemulator"/>
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption-hal-noop" />
