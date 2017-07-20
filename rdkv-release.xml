@@ -27,6 +27,8 @@
     <project name="components/generic/rdk-oe/meta-rdk" />
     <project name="components/generic/rdk-oe/meta-rdk-bsp-raspberrypi" />
     <project name="components/generic/rdk-oe/meta-rdk-containers" />
+    <project name="components/generic/rdk-oe/meta-rdk-ext" />
+    <project name="components/generic/rdk-oe/meta-rdk-gnu" />
     <project name="components/generic/rdk-oe/meta-rdk-video" />
     <project name="components/generic/recorder" />
     <project name="components/generic/tools" />
