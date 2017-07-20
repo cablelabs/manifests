@@ -12,6 +12,8 @@
     <project name="components/generic/rdk-oe/meta-cmf-rdkb" />
     <project name="components/generic/rdk-oe/meta-rdk" />
     <project name="components/generic/rdk-oe/meta-rdk-broadband" />
+    <project name="components/generic/rdk-oe/meta-rdk-ext" />
+    <project name="components/generic/rdk-oe/meta-rdk-gnu" />
     <project name="components/opensource/patches/rdk-oe" />
     <project name="devices/intel-x86-pc/rdkbemulator/sysint" />
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
