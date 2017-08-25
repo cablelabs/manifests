@@ -18,6 +18,8 @@
     <project name="components/generic/gst-plugins-rdk-dvr" />
     <project name="components/generic/mediaframework" />
     <project name="components/generic/mfrlibs" />
+    <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
+    <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="components/generic/rdk-oe/meta-cmf" />
     <project name="components/generic/rdk-oe/meta-cmf-qt5" />
     <project name="components/generic/rdk-oe/meta-cmf-raspberrypi" />
