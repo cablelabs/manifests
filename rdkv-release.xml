@@ -124,6 +124,8 @@
     <project name="rdk/components/generic/webpa-video" />
     <project name="rdk/components/generic/wifi" />
     <project name="rdk/components/generic/xupnp" />
+    <project name="rdk/devices/raspberrypi/iarmmgrs" />
+    <project name="rdk/devices/raspberrypi/wifi" />
     <project name="rdkcmf/meta-westeros-raspberrypi" />
     <project name="tools/tdk" />
     <project name="tools/tdk-advanced" />
