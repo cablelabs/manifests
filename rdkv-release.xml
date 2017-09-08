@@ -60,12 +60,10 @@
     <project name="devices/intel-x86-pc/rdkri/westeros" />
     <project name="devices/raspberrypi/devicesettings" />
     <project name="devices/raspberrypi/dvr" />
-    <project name="devices/raspberrypi/iarmmgrs" />
     <project name="devices/raspberrypi/mediaframework" />
     <project name="devices/raspberrypi/mfrlibs" />
     <project name="devices/raspberrypi/sysint" />
     <project name="devices/raspberrypi/tdk" />
-    <project name="devices/raspberrypi/wifi" />
     <project name="docs" />
     <project name="rdk/components/generic/audiocapturemgr" />
     <project name="rdk/components/generic/crashupload" />
