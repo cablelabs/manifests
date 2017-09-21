@@ -2,7 +2,7 @@
 
 <manifest>
     <project name="components/generic/rdk-oe/meta-cmf" remote="cmf" path="meta-cmf" />
-    <project name="components/generic/rdk-oe/meta-rdk" remote="cmf" path="meta-rdk" revision="morty" upstream="morty" />
+    <project name="components/generic/rdk-oe/meta-rdk" remote="cmf" path="meta-rdk" />
     <project name="components/generic/rdk-oe/meta-rdk-ext" remote="cmf" path="meta-rdk-ext" />
     <project name="components/generic/rdk-oe/meta-rdk-gnu" remote="cmf" path="meta-rdk-gnu" />
 </manifest>
