@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-    <project name="components/generic/rdk-oe/meta-cmf" remote="cmf" path="meta-cmf" />
-    <project name="components/generic/rdk-oe/meta-rdk" remote="cmf" path="meta-rdk" />
-    <project name="components/generic/rdk-oe/meta-rdk-ext" remote="cmf" path="meta-rdk-ext" />
-    <project name="components/generic/rdk-oe/meta-rdk-gnu" remote="cmf" path="meta-rdk-gnu" />
+    <project name="components/generic/rdk-oe/meta-cmf" path="meta-cmf" />
+    <project name="components/generic/rdk-oe/meta-rdk" path="meta-rdk" />
+    <project name="components/generic/rdk-oe/meta-rdk-ext" path="meta-rdk-ext" />
+    <project name="components/generic/rdk-oe/meta-rdk-gnu" path="meta-rdk-gnu" />
 </manifest>
