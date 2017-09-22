@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <project name="components/generic/rdk-oe/meta-cmf-qt5" remote="cmf" path="meta-cmf-qt5" />
+    <project name="components/generic/rdk-oe/meta-rdk-video" remote="cmf" path="meta-rdk-video" />
+    <project name="components/generic/rdk-oe/meta-cmf-video" remote="cmf" path="meta-cmf-video" />
+</manifest>
