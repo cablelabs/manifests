@@ -6,18 +6,18 @@
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
-    <include name="oe-layers-patches.xml"/>
-    <include name="oe-layers-rdk-asp.xml"/>
-    <include name="oe-layers-rdk-raspberrypi.xml"/>
-    <include name="oe-layers-rdk.xml"/>
-    <include name="oe-layers-rdkb-emulator.xml"/>
-    <include name="oe-layers-rdkb.xml"/>
     <include name="oe-layers.xml"/>
-    <include name="rdkb-asp-components.xml"/>
+    <include name="oe-layers-rdk.xml"/>
+    <include name="oe-layers-rdk-raspberrypi.xml"/>
+    <include name="oe-layers-rdkb.xml"/>
+    <include name="oe-layers-patches.xml"/>
+    <include name="oe-layers-rdkb-emulator.xml"/>
     <include name="rdkb-components.xml"/>
     <include name="rdkb-emulator-components.xml"/>
     <include name="rdkb-raspberrypi-components.xml"/>
     <include name="rdkb-shared-components.xml"/>
     <include name="rdkb-tools.xml"/>
+    <include name="oe-layers-rdk-asp.xml"/>
+    <include name="rdkb-asp-components.xml"/>
     <project name="rdkb/docs" />
 </manifest>

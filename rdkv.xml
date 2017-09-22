@@ -6,14 +6,14 @@
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
-    <include name="oe-layers-patches.xml"/>
-    <include name="oe-layers-rdk-raspberrypi.xml"/>
+    <include name="oe-layers.xml"/>
     <include name="oe-layers-rdk.xml"/>
+    <include name="oe-layers-rdk-raspberrypi.xml"/>
+    <include name="oe-layers-rdkv.xml"/>
     <include name="oe-layers-rdkv-emulator.xml"/>
     <include name="oe-layers-rdkv-patches.xml"/>
     <include name="oe-layers-rdkv-restricted.xml"/>
-    <include name="oe-layers-rdkv.xml"/>
-    <include name="oe-layers.xml"/>
+    <include name="oe-layers-patches.xml"/>
     <include name="rdkv-emulator-components.xml"/>
     <include name="rdkv-generic-components.xml"/>
     <include name="rdkv-opensource-components.xml"/>
