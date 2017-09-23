@@ -3,6 +3,7 @@
 <manifest>
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
     <default remote="cmf" revision="master" sync-j="2"/>
+    <include name="oe-layers-patches.xml"/>
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" />
     <project name="components/asp/rdk-oe/meta-rdk-asp" />
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
@@ -36,7 +37,6 @@
     <project name="components/opensource/patches/qtbase-5.1.1" />
     <project name="components/opensource/patches/qtwebkit-5.1.1" />
     <project name="components/opensource/patches/qtwebsockets-0.9.0" />
-    <project name="components/opensource/patches/rdk-oe" />
     <project name="components/opensource/westeros" />
     <project name="components/restricted/podManager" />
     <project name="components/restricted/rdk-oe/meta-cmf-restricted" />
