@@ -6,6 +6,7 @@
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
+    <include name="oe-layers-patches.xml"/>
     <include name="oe-layers.xml"/>
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
@@ -39,7 +40,6 @@
     <project name="components/opensource/patches/qtbase-5.1.1" path="meta-cmf-qt5/recipes-qt/qt5/qtbase-5.1.1" />
     <project name="components/opensource/patches/qtwebkit-5.1.1" path="meta-cmf-qt5/recipes-qt/qt5/qtwebkit-5.1.1" />
     <project name="components/opensource/patches/qtwebsockets-0.9.0" path="meta-cmf-qt5/recipes-qt/qt5/qtwebsockets-5.1.1" />
-    <project name="components/opensource/patches/rdk-oe" path="patches/rdk-oe" />
     <project name="components/opensource/westeros" />
     <project name="components/restricted/podManager" />
     <project name="components/restricted/rdk-oe/meta-cmf-restricted" path="meta-cmf-restricted" />
