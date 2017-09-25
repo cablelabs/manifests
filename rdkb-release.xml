@@ -3,7 +3,6 @@
 <manifest>
     <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
     <default remote="cmf" revision="master" sync-j="2"/>
-    <include name="oe-layers-patches.xml"/>
     <project name="components/asp/rdk-oe/meta-cmf-rdkb-bsp-emulator" />
     <project name="components/asp/rdk-oe/meta-rdk-asp" />
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" />
@@ -15,6 +14,7 @@
     <project name="components/generic/rdk-oe/meta-rdk-broadband" />
     <project name="components/generic/rdk-oe/meta-rdk-ext" />
     <project name="components/generic/rdk-oe/meta-rdk-gnu" />
+    <project name="components/opensource/patches/rdk-oe" />
     <project name="devices/intel-x86-pc/rdkbemulator/sysint" />
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
     <project name="devices/raspberrypi/tdkb" />
