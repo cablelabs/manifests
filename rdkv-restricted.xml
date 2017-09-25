@@ -102,6 +102,7 @@
     <project name="rdk/components/generic/sys_mon_tools/iarm_query_powerstate" />
     <project name="rdk/components/generic/sys_mon_tools/iarm_set_powerstate" />
     <project name="rdk/components/generic/sys_mon_tools/key_simulator" />
+    <project name="rdk/components/generic/sys_mon_tools/mfr_data" />
     <project name="rdk/components/generic/sys_mon_tools/mfr_utils" />
     <project name="rdk/components/generic/sys_mon_tools/power-state-monitor" />
     <project name="rdk/components/generic/sys_mon_tools/rdklogctrl" />
