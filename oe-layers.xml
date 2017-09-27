@@ -3,7 +3,6 @@
     <project path="openembedded-core/bitbake" remote="github" name="openembedded/bitbake" revision="1.32" />
     <project path="meta-browser" remote="github" name="OSSystems/meta-browser" revision="morty" upstream="morty" />
     <project path="meta-java" remote="yocto" name="meta-java" revision="ecd8de1d8a26f3c46a282aafdc48504a31e61e5c" upstream="master" />
-    <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="morty" upstream="morty" />
     <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="morty" upstream="morty" />
     <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" revision="f6f2d16260ae5b35828264a553c05f065aa9d7e2" upstream="daisy" />
     <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="morty" upstream="morty" />
