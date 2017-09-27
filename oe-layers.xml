@@ -6,7 +6,7 @@
     <project path="meta-linaro" remote="linaro" name="openembedded/meta-linaro" revision="morty" upstream="morty" />
     <project path="meta-openembedded" remote="github" name="openembedded/meta-openembedded" revision="morty" upstream="morty" />
     <project path="meta-qt5" remote="github" name="meta-qt5/meta-qt5" revision="f6f2d16260ae5b35828264a553c05f065aa9d7e2" upstream="daisy" />
-    <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="master" upstream="master" />
+    <project path="meta-raspberrypi" remote="yocto" name="meta-raspberrypi" revision="morty" upstream="morty" />
     <project path="meta-metrological" remote="github" name="Metrological/meta-metrological" revision="fb28836eea775e9a74b17fbcbda3b1b8d2764bb5" upstream="master" />
     <project path="meta-virtualization" remote="yocto" name="meta-virtualization" revision="morty" upstream="morty" />
     <project path="openembedded-core" remote="github" name="openembedded/openembedded-core" revision="morty" upstream="morty" />
