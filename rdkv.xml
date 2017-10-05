@@ -110,7 +110,6 @@
     <project name="rdk/components/generic/sysint" />
     <project name="rdk/components/generic/tr69hostif" />
     <project name="rdk/components/generic/trm" />
-    <project name="rdk/components/generic/webpa-video" />
     <project name="rdk/components/generic/wifi" />
     <project name="rdk/components/generic/xupnp" />
     <project name="rdk/devices/raspberrypi/iarmmgrs" />
