@@ -37,7 +37,6 @@
     <project name="rdkb/components/opensource/ccsp/CcspMtaAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspPandM" />
     <project name="rdkb/components/opensource/ccsp/CcspPsm" />
-    <project name="rdkb/components/opensource/ccsp/CcspSafeNAT" />
     <project name="rdkb/components/opensource/ccsp/CcspSnmpPa" />
     <project name="rdkb/components/opensource/ccsp/CcspTr069Pa" />
     <project name="rdkb/components/opensource/ccsp/CcspWecbController" />
@@ -47,7 +46,6 @@
     <project name="rdkb/components/opensource/ccsp/GwProvApp" />
     <project name="rdkb/components/opensource/ccsp/GwProvApp-ePON" />
     <project name="rdkb/components/opensource/ccsp/PowerManager" />
-    <project name="rdkb/components/opensource/ccsp/RebootManager" />
     <project name="rdkb/components/opensource/ccsp/TestAndDiagnostic" />
     <project name="rdkb/components/opensource/ccsp/Utopia" />
     <project name="rdkb/components/opensource/ccsp/Xconf" />
@@ -55,10 +53,7 @@
     <project name="rdkb/components/opensource/ccsp/halinterface" />
     <project name="rdkb/components/opensource/ccsp/hotspot" />
     <project name="rdkb/components/opensource/ccsp/servicemanager" />
-    <project name="rdkb/components/opensource/ccsp/standalone" />
     <project name="rdkb/components/opensource/ccsp/sysint" />
-    <project name="rdkb/components/opensource/ccsp/utilities" />
-    <project name="rdkb/components/opensource/ccsp/webpa-broadband" />
     <project name="rdkb/components/opensource/ccsp/webui" />
     <project name="rdkb/devices/raspberrypi/hal" />
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" path="rdkb/components/opensource/ccsp/CcspCr/devices"/>
