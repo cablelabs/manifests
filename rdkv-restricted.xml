@@ -76,6 +76,7 @@
     <project name="rdk/components/generic/diagnostics" />
     <project name="rdk/components/generic/dtcp" />
     <project name="rdk/components/generic/hdmicec" />
+    <project name="rdk/components/generic/hwselftest" />
     <project name="rdk/components/generic/iarmbus" />
     <project name="rdk/components/generic/iarmmgrs" />
     <project name="rdk/components/generic/injectedbundle" />
