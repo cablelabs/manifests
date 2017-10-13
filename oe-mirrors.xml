@@ -9,7 +9,7 @@
     <project name="rdk/components/opensource/oe/meta-intel" path="meta-intel" />
     <project name="rdk/components/opensource/oe/meta-java" path="meta-java" />
     <project name="rdk/components/opensource/oe/meta-linaro" path="meta-linaro" />
-    <project name="rdk/components/opensource/oe/meta-oic" path="meta-oic" />
+    <project name="rdk/components/opensource/oe/meta-oic" path="meta-oic" revision="master" />
     <project name="rdk/components/opensource/oe/meta-openembedded" path="meta-openembedded" />
     <project name="rdk/components/opensource/oe/meta-qt5" path="meta-qt5" />
     <project name="rdk/components/opensource/oe/meta-raspberrypi" path="meta-raspberrypi" />
