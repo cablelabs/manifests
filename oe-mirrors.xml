@@ -4,7 +4,7 @@
     <default remote="cmf" revision="rdk/daisy" />
 
     <project name="rdk/components/opensource/oe/bitbake" path="bitbake" />
-    <project name="rdk/components/opensource/oe/meta-96boards" path="meta-96boards" />
+    <project name="rdk/components/opensource/oe/meta-96boards" path="meta-96boards" revision="master" />
     <project name="rdk/components/opensource/oe/meta-browser" path="meta-browser" />
     <project name="rdk/components/opensource/oe/meta-intel" path="meta-intel" />
     <project name="rdk/components/opensource/oe/meta-java" path="meta-java" />
