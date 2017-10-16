@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="rdk/components/opensource/oe/bitbake" path="bitbake" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/bitbake" path="openembedded-core/bitbake" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-96boards" path="meta-96boards" revision="master" />
     <project name="rdk/components/opensource/oe/meta-browser" path="meta-browser" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-intel" path="meta-intel" revision="rdk/daisy" />
