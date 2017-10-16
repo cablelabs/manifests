@@ -6,6 +6,7 @@
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
+    <include name="oe-layers-mirrors.xml"/>
     <project name="components/asp/rdk-oe/meta-cmf-rdkb-bsp-emulator" path="meta-cmf-rdkb-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
     <project name="components/generic/rdk-oe/meta-cmf" path="meta-cmf" />
@@ -21,20 +22,6 @@
     <project name="rdk/components/generic/crashupload" />
     <project name="rdk/components/generic/rdk_logger" />
     <project name="rdk/components/generic/sys_mon_tools/sys_resource" />
-    <project name="rdk/components/opensource/oe/bitbake" path="bitbake" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-96boards" path="meta-96boards" revision="master" />
-    <project name="rdk/components/opensource/oe/meta-browser" path="meta-browser" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-intel" path="meta-intel" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-java" path="meta-java" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-linaro" path="meta-linaro" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-oic" path="meta-oic" revision="master" />
-    <project name="rdk/components/opensource/oe/meta-openembedded" path="meta-openembedded" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-qt5" path="meta-qt5" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-raspberrypi" path="meta-raspberrypi" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-secure-core" path="meta-secure-core" revision="master" />
-    <project name="rdk/components/opensource/oe/meta-virtualization" path="meta-virtualization" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-wpe" path="meta-wpe" revision="master" />
-    <project name="rdk/components/opensource/oe/openembedded-core" path="openembedded-core" revision="rdk/daisy" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
