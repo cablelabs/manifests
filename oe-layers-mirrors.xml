@@ -5,7 +5,6 @@
     <project name="rdk/components/opensource/oe/meta-browser" path="meta-browser" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-intel" path="meta-intel" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-java" path="meta-java" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-linaro" path="meta-linaro" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-oic" path="meta-oic" revision="master" />
     <project name="rdk/components/opensource/oe/meta-openembedded" path="meta-openembedded" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-qt5" path="meta-qt5" revision="rdk/daisy" />
