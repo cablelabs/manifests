@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="cmf" fetch="https://code.rdkcentral.com/r" review="https://code.rdkcentral.com/r" sync-j="2" />
-    <default remote="cmf" revision="rdk/morty" />
-
-    <project name="rdk/components/opensource/oe/bitbake" path="bitbake" />
-    <project name="rdk/components/opensource/oe/meta-96boards" path="meta-96boards" revision="master" />
-    <project name="rdk/components/opensource/oe/meta-browser" path="meta-browser" />
-    <project name="rdk/components/opensource/oe/meta-intel" path="meta-intel" />
-    <project name="rdk/components/opensource/oe/meta-java" path="meta-java" />
-    <project name="rdk/components/opensource/oe/meta-linaro" path="meta-linaro" />
-    <project name="rdk/components/opensource/oe/meta-oic" path="meta-oic" revision="master" />
-    <project name="rdk/components/opensource/oe/meta-openembedded" path="meta-openembedded" />
-    <project name="rdk/components/opensource/oe/meta-qt5" path="meta-qt5" />
-    <project name="rdk/components/opensource/oe/meta-raspberrypi" path="meta-raspberrypi" />
-    <project name="rdk/components/opensource/oe/meta-secure-core" path="meta-secure-core" revision="master" />
-    <project name="rdk/components/opensource/oe/meta-virtualization" path="meta-virtualization" />
-    <project name="rdk/components/opensource/oe/meta-wpe" path="meta-wpe" revision="master" />
-    <project name="rdk/components/opensource/oe/openembedded-core" path="openembedded-core" />
+    <default remote="cmf" revision="master" />
+    <include name="oe-mirrors.xml"/>
 </manifest>
