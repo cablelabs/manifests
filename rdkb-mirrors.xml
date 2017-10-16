@@ -6,7 +6,6 @@
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
-    <include name="oe-layers-patches.xml"/>
     <include name="oe-mirrors.xml"/>
     <project name="components/asp/rdk-oe/meta-cmf-rdkb-bsp-emulator" path="meta-cmf-rdkb-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
