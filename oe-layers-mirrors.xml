@@ -3,13 +3,13 @@
     <project name="rdk/components/opensource/oe/bitbake" path="bitbake" revision="rdk/morty" />
     <project name="rdk/components/opensource/oe/meta-96boards" path="meta-96boards" revision="master" />
     <project name="rdk/components/opensource/oe/meta-browser" path="meta-browser" revision="rdk/morty" />
-    <project name="rdk/components/opensource/oe/meta-intel" path="meta-intel" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-intel" path="meta-intel" revision="master" />
     <project name="rdk/components/opensource/oe/meta-java" path="meta-java" revision="rdk/morty" />
     <project name="rdk/components/opensource/oe/meta-linaro" path="meta-linaro" revision="rdk/morty" />
     <project name="rdk/components/opensource/oe/meta-oic" path="meta-oic" revision="master" />
     <project name="rdk/components/opensource/oe/meta-openembedded" path="meta-openembedded" revision="rdk/morty" />
     <project name="rdk/components/opensource/oe/meta-qt5" path="meta-qt5" revision="rdk/morty" />
-    <project name="rdk/components/opensource/oe/meta-raspberrypi" path="meta-raspberrypi" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-raspberrypi" path="meta-raspberrypi" revision="master" />
     <project name="rdk/components/opensource/oe/meta-secure-core" path="meta-secure-core" revision="master" />
     <project name="rdk/components/opensource/oe/meta-virtualization" path="meta-virtualization" revision="rdk/morty" />
     <project name="rdk/components/opensource/oe/meta-wpe" path="meta-wpe" revision="master" />
