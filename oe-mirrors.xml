@@ -2,5 +2,5 @@
 <manifest>
     <remote name="cmf" fetch="https://code.rdkcentral.com/r" review="https://code.rdkcentral.com/r" sync-j="2" />
     <default remote="cmf" revision="master" />
-    <include name="oe-mirrors.xml"/>
+    <include name="oe-layers-mirrors.xml"/>
 </manifest>
