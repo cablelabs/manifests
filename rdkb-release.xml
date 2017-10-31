@@ -15,6 +15,7 @@
     <project name="components/generic/rdk-oe/meta-rdk-gnu" />
     <project name="components/opensource/patches/rdk-oe" />
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
+    <project name="devices/intel-x86-pc/rdkemulator/tdk" />
     <project name="devices/raspberrypi/tdkb" />
     <project name="rdk/components/generic/crashupload" />
     <project name="rdk/components/generic/rdk_logger" />
@@ -49,6 +50,7 @@
     <project name="rdkb/components/opensource/ccsp/servicemanager" />
     <project name="rdkb/components/opensource/ccsp/sysint" />
     <project name="rdkb/components/opensource/ccsp/webui" />
+    <project name="rdkb/devices/intel-x86-pc/emulator/sysint" />
     <project name="rdkb/devices/raspberrypi/hal" />
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" />
     <project name="rdkb/devices/rdkbemu/rdkbemu_xb3" />
