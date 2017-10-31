@@ -46,17 +46,12 @@
     <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/qamtunersrc" />
     <project name="devices/intel-x86-pc/rdkemulator/mfrlibs" />
     <project name="devices/intel-x86-pc/rdkemulator/podserver/emu-podserver" />
-    <project name="devices/intel-x86-pc/rdkemulator/rdkbrowser" />
-    <project name="devices/intel-x86-pc/rdkemulator/servicemanager" />
     <project name="devices/intel-x86-pc/rdkemulator/tdk" />
     <project name="devices/intel-x86-pc/rdkemulator/tr69" />
     <project name="devices/intel-x86-pc/rdkri/devicesettings" />
-    <project name="devices/intel-x86-pc/rdkri/iarmmgrs" />
     <project name="devices/intel-x86-pc/rdkri/lxc" />
     <project name="devices/intel-x86-pc/rdkri/mediaframework" />
     <project name="devices/intel-x86-pc/rdkri/podManager" />
-    <project name="devices/intel-x86-pc/rdkri/rmf_mediastreamer" />
-    <project name="devices/intel-x86-pc/rdkri/sysint" />
     <project name="devices/intel-x86-pc/rdkri/westeros" />
     <project name="devices/raspberrypi/devicesettings" />
     <project name="devices/raspberrypi/dvr" />

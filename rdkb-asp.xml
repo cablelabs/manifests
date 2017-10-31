@@ -18,7 +18,6 @@
     <project name="components/generic/rdk-oe/meta-rdk-broadband" path="meta-rdk-broadband" />
     <project name="components/generic/rdk-oe/meta-rdk-ext" path="meta-rdk-ext" />
     <project name="components/generic/rdk-oe/meta-rdk-gnu" path="meta-rdk-gnu" />
-    <project name="devices/intel-x86-pc/rdkbemulator/sysint" path="rdkb/components/opensource/ccsp/sysint/device"/>
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" path="tools/tdkb/platform/rdkbemulator"/>
     <project name="devices/raspberrypi/tdkb" path="tools/tdkb/platform/raspberrypi"/>
     <project name="rdk/components/generic/crashupload" />
