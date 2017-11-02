@@ -50,7 +50,6 @@
     <project name="devices/intel-x86-pc/rdkemulator/mfrlibs" />
     <project name="devices/intel-x86-pc/rdkemulator/tdk" path="tools/tdk/platform/emulator"/>
     <project name="devices/intel-x86-pc/rdkemulator/tr69" path="components/generic/tr69/platform/rdkemulator"/>
-    <project name="devices/intel-x86-pc/rdkri/devicesettings" />
     <project name="devices/intel-x86-pc/rdkri/lxc" />
     <project name="devices/intel-x86-pc/rdkri/mediaframework" path="components/generic/mediaframework/rdkri"/>
     <project name="devices/intel-x86-pc/rdkri/westeros" />
