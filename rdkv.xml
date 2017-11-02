@@ -108,6 +108,7 @@
     <project name="rdk/components/generic/trm" />
     <project name="rdk/components/generic/wifi" />
     <project name="rdk/components/generic/xupnp" />
+    <project name="rdk/devices/intel-x86-pc/emulator/devicesettings" />
     <project name="rdk/devices/intel-x86-pc/emulator/iarmmgrs" />
     <project name="rdk/devices/intel-x86-pc/emulator/rdkbrowser" path="rdk/components/generic/rdkbrowser/platform/rdkemulator"/>
     <project name="rdk/devices/intel-x86-pc/emulator/rmf_mediastreamer" path="rdk/components/generic/rmf_mediastreamer/platform/rdkemulator"/>
