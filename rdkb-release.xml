@@ -34,7 +34,6 @@
     <project name="rdkb/components/opensource/ccsp/CcspPsm" />
     <project name="rdkb/components/opensource/ccsp/CcspSnmpPa" />
     <project name="rdkb/components/opensource/ccsp/CcspTr069Pa" />
-    <project name="rdkb/components/opensource/ccsp/CcspWecbController" />
     <project name="rdkb/components/opensource/ccsp/CcspWifiAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspXDNS" />
     <project name="rdkb/components/opensource/ccsp/FirmwareSanity" />
