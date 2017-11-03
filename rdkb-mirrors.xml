@@ -7,6 +7,7 @@
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
     <include name="oe-layers-mirrors.xml"/>
+    <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-cmf-rdkb-bsp-emulator" path="meta-cmf-rdkb-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
     <project name="components/generic/rdk-oe/meta-cmf" path="meta-cmf" />
