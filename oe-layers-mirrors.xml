@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project name="rdk/components/opensource/oe/bitbake" path="openembedded-core/bitbake" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-96boards" path="meta-96boards" revision="master" />
     <project name="rdk/components/opensource/oe/meta-browser" path="meta-browser" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-intel" path="meta-intel" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-java" path="meta-java" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-oic" path="meta-oic" revision="master" />
     <project name="rdk/components/opensource/oe/meta-openembedded" path="meta-openembedded" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-qt5" path="meta-qt5" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-raspberrypi" path="meta-raspberrypi" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-secure-core" path="meta-secure-core" revision="master" />
     <project name="rdk/components/opensource/oe/meta-virtualization" path="meta-virtualization" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-wpe" path="meta-wpe" revision="master" />
     <project name="rdk/components/opensource/oe/openembedded-core" path="openembedded-core" revision="rdk/daisy" />
 </manifest>
