@@ -3,6 +3,7 @@
     <project name="rdk/components/opensource/oe/bitbake" path="openembedded-core/bitbake" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-browser" path="meta-browser" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-java" path="meta-java" revision="rdk/daisy" />
+    <project name="Metrological/meta-metrological" path="meta-metrological" remote="github" revision="c8a66ff9e2d6c480d0f2f17408cea1d7cadc4885" upstream="master" />
     <project name="rdk/components/opensource/oe/meta-openembedded" path="meta-openembedded" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-linaro" path="meta-linaro" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-qt5" path="meta-qt5" revision="rdk/daisy" />
