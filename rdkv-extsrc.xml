@@ -6,7 +6,7 @@
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
     <default remote="cmf" revision="master" sync-j="2"/>
-    <include name="oe-layers-mirrors.xml"/>
+    <include name="oe-layers.xml"/>
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
     <project name="components/generic/bluetooth" />
@@ -59,6 +59,7 @@
     <project name="devices/raspberrypi/mfrlibs" />
     <project name="devices/raspberrypi/sysint" />
     <project name="devices/raspberrypi/tdk" path="tools/tdk/platform/raspberrypi"/>
+    <project name="docs" />
     <project name="rdk/components/generic/audiocapturemgr" />
     <project name="rdk/components/generic/crashupload" />
     <project name="rdk/components/generic/dca" />
@@ -114,6 +115,5 @@
     <project name="rdk/devices/intel-x86-pc/emulator/sysint" path="rdk/components/generic/sysint/device"/>
     <project name="rdk/devices/raspberrypi/iarmmgrs" />
     <project name="rdk/devices/raspberrypi/wifi" />
-    <project name="rdkb/docs" />
     <project name="tools/tdk" />
 </manifest>

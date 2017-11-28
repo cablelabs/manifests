@@ -14,13 +14,21 @@
     <project name="components/generic/rdk-oe/meta-rdk-broadband" />
     <project name="components/generic/rdk-oe/meta-rdk-ext" />
     <project name="components/generic/rdk-oe/meta-rdk-gnu" />
-    <project name="components/opensource/patches/rdk-oe" />
     <project name="devices/intel-x86-pc/rdkbemulator/tdkb" />
     <project name="devices/intel-x86-pc/rdkemulator/tdk" />
     <project name="devices/raspberrypi/tdkb" />
     <project name="rdk/components/generic/crashupload" />
     <project name="rdk/components/generic/rdk_logger" />
     <project name="rdk/components/generic/sys_mon_tools/sys_resource" />
+    <project name="rdk/components/opensource/oe/bitbake" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-browser" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-java" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-linaro" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-openembedded" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-qt5" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-raspberrypi" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-virtualization" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/openembedded-core" revision="rdk/daisy" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />

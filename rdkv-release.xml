@@ -36,7 +36,6 @@
     <project name="components/opensource/patches/qtbase-5.1.1" />
     <project name="components/opensource/patches/qtwebkit-5.1.1" />
     <project name="components/opensource/patches/qtwebsockets-0.9.0" />
-    <project name="components/opensource/patches/rdk-oe" />
     <project name="components/opensource/westeros" />
     <project name="components/restricted/podManager" />
     <project name="components/restricted/rdk-oe/meta-cmf-restricted" />
@@ -105,6 +104,15 @@
     <project name="rdk/components/generic/trm" />
     <project name="rdk/components/generic/wifi" />
     <project name="rdk/components/generic/xupnp" />
+    <project name="rdk/components/opensource/oe/bitbake" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-browser" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-java" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-linaro" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-openembedded" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-qt5" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-raspberrypi" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-virtualization" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/openembedded-core" revision="rdk/daisy" />
     <project name="rdk/devices/intel-x86-pc/emulator/devicesettings" />
     <project name="rdk/devices/intel-x86-pc/emulator/iarmmgrs" />
     <project name="rdk/devices/intel-x86-pc/emulator/rdkbrowser" />
