@@ -58,7 +58,6 @@
     <project name="devices/raspberrypi/gst-plugins-rdk/playersinkbin" path="devices/raspberrypi/gst-plugins-playersinkbin"/>
     <project name="devices/raspberrypi/mediaframework" />
     <project name="devices/raspberrypi/mfrlibs" />
-    <project name="devices/raspberrypi/sysint" />
     <project name="devices/raspberrypi/tdk" path="tools/tdk/platform/raspberrypi"/>
     <project name="docs" />
     <project name="rdk/components/generic/audiocapturemgr" />
