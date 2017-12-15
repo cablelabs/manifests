@@ -10,8 +10,6 @@
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-rdk-asp" path="meta-rdk-asp" />
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
-    <project name="components/generic/bluetooth" />
-    <project name="components/generic/bluetooth_mgr" />
     <project name="components/generic/closedcaption" />
     <project name="components/generic/dvb/graphicsEngine" />
     <project name="components/generic/dvb/subtitles" />
