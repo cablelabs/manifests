@@ -63,8 +63,10 @@
     <project name="rdk/components/generic/bluetooth" />
     <project name="rdk/components/generic/bluetooth_mgr" />
     <project name="rdk/components/generic/breakpad_wrapper" />
+    <project name="rdk/components/generic/cpuprocanalyzer" />
     <project name="rdk/components/generic/crashupload" />
     <project name="rdk/components/generic/dca" />
+    <project name="rdk/components/generic/dcm" />
     <project name="rdk/components/generic/devicesettings" />
     <project name="rdk/components/generic/diagnostics" />
     <project name="rdk/components/generic/dtcp" />
@@ -77,11 +79,14 @@
     <project name="rdk/components/generic/libusbctrl" />
     <project name="rdk/components/generic/media_utils" />
     <project name="rdk/components/generic/mocahal" />
+    <project name="rdk/components/generic/netmonitor" />
     <project name="rdk/components/generic/netsrvmgr" />
     <project name="rdk/components/generic/rdk_logger" />
     <project name="rdk/components/generic/rdkapps" path="rdk/components/generic/rdkbrowser/rdkapps"/>
     <project name="rdk/components/generic/rdkbrowser" />
     <project name="rdk/components/generic/rdkbrowser2" />
+    <project name="rdk/components/generic/rdm" />
+    <project name="rdk/components/generic/rfc" />
     <project name="rdk/components/generic/rmf_mediastreamer" />
     <project name="rdk/components/generic/rmf_tools/generate_si_cache" />
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" />
@@ -108,6 +113,7 @@
     <project name="rdk/components/generic/tr69hostif" />
     <project name="rdk/components/generic/trm" />
     <project name="rdk/components/generic/wifi" />
+    <project name="rdk/components/generic/xconf-simulator" />
     <project name="rdk/components/generic/xupnp" />
     <project name="rdk/devices/intel-x86-pc/emulator/devicesettings" />
     <project name="rdk/devices/intel-x86-pc/emulator/iarmmgrs" />
