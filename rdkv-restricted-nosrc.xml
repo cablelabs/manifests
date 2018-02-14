@@ -10,10 +10,12 @@
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator"/>
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
     <project name="components/generic/rdk-oe/meta-cmf" path="meta-cmf" />
+    <project name="components/generic/rdk-oe/meta-cmf-bsp-raspberrypi" path="meta-cmf-bsp-raspberrypi"/>
     <project name="components/generic/rdk-oe/meta-cmf-qt5" path="meta-cmf-qt5" />
     <project name="components/generic/rdk-oe/meta-cmf-raspberrypi" path="meta-cmf-raspberrypi"/>
     <project name="components/generic/rdk-oe/meta-cmf-video" path="meta-cmf-video" />
     <project name="components/generic/rdk-oe/meta-rdk" path="meta-rdk" />
+    <project name="components/generic/rdk-oe/meta-rdk-bsp-raspberrypi" path="meta-rdk-bsp-raspberrypi"/>
     <project name="components/generic/rdk-oe/meta-rdk-ext" path="meta-rdk-ext" />
     <project name="components/generic/rdk-oe/meta-rdk-gnu" path="meta-rdk-gnu" />
     <project name="components/generic/rdk-oe/meta-rdk-video" path="meta-rdk-video" />
