@@ -111,6 +111,7 @@
     <project name="rdk/components/generic/sys_mon_tools/sys_utils" />
     <project name="rdk/components/generic/sys_mon_tools/udhcpc-opt43" />
     <project name="rdk/components/generic/sysint" />
+    <project name="rdk/components/generic/syslog_helper" />
     <project name="rdk/components/generic/tr69hostif" />
     <project name="rdk/components/generic/trm" />
     <project name="rdk/components/generic/wifi" />
