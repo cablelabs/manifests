@@ -27,6 +27,7 @@
     <project name="rdk/components/generic/sys_mon_tools/sys_resource" />
     <project name="rdk/components/generic/syslog_helper" />
     <project name="rdk/components/generic/xconf-simulator" />
+    <project name="rdkb/components/generic/CcspLogAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
