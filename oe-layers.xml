@@ -9,5 +9,6 @@
     <project name="rdk/components/opensource/oe/meta-raspberrypi" path="meta-raspberrypi" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-virtualization" path="meta-virtualization" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/openembedded-core" path="openembedded-core" revision="rdk/daisy" />
+    <project name="Metrological/meta-metrological" path="meta-metrological" remote="github" revision="c8a66ff9e2d6c480d0f2f17408cea1d7cadc4885" upstream="master" />
     <project name="EmbeddedAndroid/meta-rtlwifi" remote="github" path="meta-rtlwifi" revision="b0d3d5ff3ce460c617a33c1b1de96f857179b259" />
 </manifest>
