@@ -17,7 +17,6 @@
     <project name="components/generic/rdk-oe/meta-rdk-broadband" path="meta-rdk-broadband" />
     <project name="components/generic/rdk-oe/meta-rdk-ext" path="meta-rdk-ext" />
     <project name="components/generic/rdk-oe/meta-rdk-gnu" path="meta-rdk-gnu" />
-    <project name="devices/intel-x86-pc/rdkbemulator/tdkb" path="tools/tdkb/platform/rdkbemulator"/>
     <project name="devices/intel-x86-pc/rdkemulator/tdk" path="tools/tdk/platform/emulator"/>
     <project name="devices/raspberrypi/tdkb" path="tools/tdkb/platform/raspberrypi"/>
     <project name="rdk/components/generic/breakpad_wrapper" />
@@ -58,6 +57,7 @@
     <project name="rdkb/components/opensource/ccsp/sysint" />
     <project name="rdkb/components/opensource/ccsp/webui" />
     <project name="rdkb/devices/intel-x86-pc/emulator/sysint" path="rdkb/components/opensource/ccsp/sysint/device"/>
+    <project name="rdkb/devices/intel-x86-pc/emulator/tdkb" path="tools/tdkb/platform/rdkbemulator"/>
     <project name="rdkb/devices/raspberrypi/hal" />
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" path="rdkb/components/opensource/ccsp/CcspCr/devices"/>
     <project name="rdkb/devices/rdkbemu/ccsp/rdkb" path="rdkb/components/opensource/ccsp/CcspLMLite/devices"/>
