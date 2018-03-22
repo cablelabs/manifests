@@ -5,10 +5,10 @@
     <remote name="github" fetch="https://github.com" review="" />
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
-    <default remote="cmf" revision="master" sync-j="2"/>
-    <include name="oe-layers.xml"/>
-    <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator"/>
-    <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
+    <default remote="cmf" revision="master" sync-j="2" />
+    <include name="oe-layers.xml" />
+    <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator" />
+    <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator" />
     <project name="components/generic/aamp" />
     <project name="components/generic/closedcaption" />
     <project name="components/generic/dvb/graphicsEngine" />
@@ -24,10 +24,10 @@
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="components/generic/rdk-oe/meta-cmf" path="meta-cmf" />
     <project name="components/generic/rdk-oe/meta-cmf-qt5" path="meta-cmf-qt5" />
-    <project name="components/generic/rdk-oe/meta-cmf-raspberrypi" path="meta-cmf-raspberrypi"/>
+    <project name="components/generic/rdk-oe/meta-cmf-raspberrypi" path="meta-cmf-raspberrypi" />
     <project name="components/generic/rdk-oe/meta-cmf-video" path="meta-cmf-video" />
     <project name="components/generic/rdk-oe/meta-rdk" path="meta-rdk" />
-    <project name="components/generic/rdk-oe/meta-rdk-containers" path="meta-rdk-containers"/>
+    <project name="components/generic/rdk-oe/meta-rdk-containers" path="meta-rdk-containers" />
     <project name="components/generic/rdk-oe/meta-rdk-ext" path="meta-rdk-ext" />
     <project name="components/generic/rdk-oe/meta-rdk-gnu" path="meta-rdk-gnu" />
     <project name="components/generic/rdk-oe/meta-rdk-video" path="meta-rdk-video" />
@@ -42,23 +42,23 @@
     <project name="components/restricted/rdk-oe/meta-cmf-restricted" path="meta-cmf-restricted" />
     <project name="components/restricted/rdk-oe/meta-rdk-restricted" path="meta-rdk-restricted" />
     <project name="devices/intel-x86-pc/rdkemulator/closedcaption" />
-    <project name="devices/intel-x86-pc/rdkemulator/closedcaption" path="components/generic/closedcaption/platform/rdkemulator"/>
-    <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/playersinkbin" path="devices/intel-x86-pc/rdkemulator/gst-plugins-playersinkbin"/>
+    <project name="devices/intel-x86-pc/rdkemulator/closedcaption" path="components/generic/closedcaption/platform/rdkemulator" />
+    <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/playersinkbin" path="devices/intel-x86-pc/rdkemulator/gst-plugins-playersinkbin" />
     <project name="devices/intel-x86-pc/rdkemulator/gst-plugins-rdk/qamtunersrc" />
     <project name="devices/intel-x86-pc/rdkemulator/mfrlibs" />
     <project name="devices/intel-x86-pc/rdkemulator/podserver/emu-podserver" />
-    <project name="devices/intel-x86-pc/rdkemulator/tdk" path="tools/tdk/platform/emulator"/>
-    <project name="devices/intel-x86-pc/rdkemulator/tr69" path="components/generic/tr69/platform/rdkemulator"/>
+    <project name="devices/intel-x86-pc/rdkemulator/tdk" path="tools/tdk/platform/emulator" />
+    <project name="devices/intel-x86-pc/rdkemulator/tr69" path="components/generic/tr69/platform/rdkemulator" />
     <project name="devices/intel-x86-pc/rdkri/lxc" />
-    <project name="devices/intel-x86-pc/rdkri/mediaframework" path="components/generic/mediaframework/rdkri"/>
+    <project name="devices/intel-x86-pc/rdkri/mediaframework" path="components/generic/mediaframework/rdkri" />
     <project name="devices/intel-x86-pc/rdkri/podManager" />
     <project name="devices/intel-x86-pc/rdkri/westeros" />
     <project name="devices/raspberrypi/devicesettings" />
     <project name="devices/raspberrypi/dvr" />
-    <project name="devices/raspberrypi/gst-plugins-rdk/playersinkbin" path="devices/raspberrypi/gst-plugins-playersinkbin"/>
+    <project name="devices/raspberrypi/gst-plugins-rdk/playersinkbin" path="devices/raspberrypi/gst-plugins-playersinkbin" />
     <project name="devices/raspberrypi/mediaframework" />
     <project name="devices/raspberrypi/mfrlibs" />
-    <project name="devices/raspberrypi/tdk" path="tools/tdk/platform/raspberrypi"/>
+    <project name="devices/raspberrypi/tdk" path="tools/tdk/platform/raspberrypi" />
     <project name="docs" />
     <project name="rdk/components/generic/audiocapturemgr" />
     <project name="rdk/components/generic/bluetooth" />
@@ -83,7 +83,7 @@
     <project name="rdk/components/generic/netmonitor" />
     <project name="rdk/components/generic/netsrvmgr" />
     <project name="rdk/components/generic/rdk_logger" />
-    <project name="rdk/components/generic/rdkapps" path="rdk/components/generic/rdkbrowser/rdkapps"/>
+    <project name="rdk/components/generic/rdkapps" path="rdk/components/generic/rdkbrowser/rdkapps" />
     <project name="rdk/components/generic/rdkbrowser" />
     <project name="rdk/components/generic/rdkbrowser2" />
     <project name="rdk/components/generic/rdm" />
@@ -92,8 +92,8 @@
     <project name="rdk/components/generic/rmf_tools/generate_si_cache" />
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" />
     <project name="rdk/components/generic/servicemanager" />
-    <project name="rdk/components/generic/servicemanager" path="rdk/components/generic/rdkbrowser/servicemanager"/>
-    <project name="rdk/components/generic/servicemanager" path="tools/tdk/SM_stub/servicemanager"/>
+    <project name="rdk/components/generic/servicemanager" path="rdk/components/generic/rdkbrowser/servicemanager" />
+    <project name="rdk/components/generic/servicemanager" path="tools/tdk/SM_stub/servicemanager" />
     <project name="rdk/components/generic/storagemanager" />
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/host" />
     <project name="rdk/components/generic/sys_mon_tools/analyzers/scripts/target" />
@@ -119,10 +119,10 @@
     <project name="rdk/components/generic/xupnp" />
     <project name="rdk/devices/intel-x86-pc/emulator/devicesettings" />
     <project name="rdk/devices/intel-x86-pc/emulator/iarmmgrs" />
-    <project name="rdk/devices/intel-x86-pc/emulator/rdkbrowser" path="rdk/components/generic/rdkbrowser/platform/rdkemulator"/>
-    <project name="rdk/devices/intel-x86-pc/emulator/rmf_mediastreamer" path="rdk/components/generic/rmf_mediastreamer/platform/rdkemulator"/>
-    <project name="rdk/devices/intel-x86-pc/emulator/servicemanager" path="rdk/components/generic/servicemanager/platform/rdkemulator"/>
-    <project name="rdk/devices/intel-x86-pc/emulator/sysint" path="rdk/components/generic/sysint/device"/>
+    <project name="rdk/devices/intel-x86-pc/emulator/rdkbrowser" path="rdk/components/generic/rdkbrowser/platform/rdkemulator" />
+    <project name="rdk/devices/intel-x86-pc/emulator/rmf_mediastreamer" path="rdk/components/generic/rmf_mediastreamer/platform/rdkemulator" />
+    <project name="rdk/devices/intel-x86-pc/emulator/servicemanager" path="rdk/components/generic/servicemanager/platform/rdkemulator" />
+    <project name="rdk/devices/intel-x86-pc/emulator/sysint" path="rdk/components/generic/sysint/device" />
     <project name="rdk/devices/raspberrypi/iarmmgrs" />
     <project name="rdk/devices/raspberrypi/wifi" />
     <project name="tools/tdk" />

@@ -5,14 +5,14 @@
     <remote name="github" fetch="https://github.com" review="" />
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
-    <default remote="cmf" revision="master" sync-j="2"/>
-    <include name="oe-layers.xml"/>
-    <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator"/>
+    <default remote="cmf" revision="master" sync-j="2" />
+    <include name="oe-layers.xml" />
+    <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator" />
     <project name="components/asp/rdk-oe/meta-rdk-asp" path="meta-rdk-asp" />
-    <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator"/>
+    <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator" />
     <project name="components/generic/rdk-oe/meta-cmf" path="meta-cmf" />
     <project name="components/generic/rdk-oe/meta-cmf-broadband" path="meta-cmf-broadband" />
-    <project name="components/generic/rdk-oe/meta-cmf-raspberrypi" path="meta-cmf-raspberrypi"/>
+    <project name="components/generic/rdk-oe/meta-cmf-raspberrypi" path="meta-cmf-raspberrypi" />
     <project name="components/generic/rdk-oe/meta-rdk" path="meta-rdk" />
     <project name="components/generic/rdk-oe/meta-rdk-broadband" path="meta-rdk-broadband" />
     <project name="components/generic/rdk-oe/meta-rdk-ext" path="meta-rdk-ext" />
