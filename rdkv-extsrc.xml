@@ -75,6 +75,8 @@
     <project name="rdk/components/generic/injectedbundle" />
     <project name="rdk/components/generic/ledmgr" />
     <project name="rdk/components/generic/libusbctrl" />
+    <project name="rdk/components/generic/lxc-container-generator" />
+    <project name="rdk/components/generic/lxccpid" />
     <project name="rdk/components/generic/media_utils" />
     <project name="rdk/components/generic/mocahal" />
     <project name="rdk/components/generic/netmonitor" />
