@@ -28,6 +28,7 @@
     <project name="rdk/components/generic/syslog_helper" />
     <project name="rdk/components/generic/xconf-simulator" />
     <project name="rdk/components/generic/xupnp" />
+    <project name="rdk/devices/raspberrypi/webpa-client" />
     <project name="rdkb/components/generic/CcspLogAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
