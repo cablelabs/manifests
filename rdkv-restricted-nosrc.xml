@@ -15,7 +15,6 @@
     <project name="components/generic/rdk-oe/meta-cmf-video" path="meta-cmf-video" />
     <project name="components/generic/rdk-oe/meta-rdk" path="meta-rdk" />
     <project name="components/generic/rdk-oe/meta-rdk-ext" path="meta-rdk-ext" />
-    <project name="components/generic/rdk-oe/meta-rdk-gnu" path="meta-rdk-gnu" />
     <project name="components/generic/rdk-oe/meta-rdk-video" path="meta-rdk-video" />
     <project name="components/opensource/patches/qtbase-5.1.1" path="meta-cmf-qt5/recipes-qt/qt5/qtbase-5.1.1" />
     <project name="components/opensource/patches/qtwebkit-5.1.1" path="meta-cmf-qt5/recipes-qt/qt5/qtwebkit-5.1.1" />
