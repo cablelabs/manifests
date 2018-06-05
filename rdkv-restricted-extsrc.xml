@@ -60,6 +60,7 @@
     <project name="devices/raspberrypi/mfrlibs" />
     <project name="devices/raspberrypi/tdk" path="tools/tdk/platform/raspberrypi" />
     <project name="docs" />
+    <project name="rdk/components/generic/aamp" />
     <project name="rdk/components/generic/audiocapturemgr" />
     <project name="rdk/components/generic/bluetooth" />
     <project name="rdk/components/generic/bluetooth_mgr" />
@@ -71,6 +72,7 @@
     <project name="rdk/components/generic/devicesettings" />
     <project name="rdk/components/generic/diagnostics" />
     <project name="rdk/components/generic/dtcp" />
+    <project name="rdk/components/generic/gst-plugins-rdk-aamp" />
     <project name="rdk/components/generic/hdmicec" />
     <project name="rdk/components/generic/hwselftest" />
     <project name="rdk/components/generic/iarmbus" />
