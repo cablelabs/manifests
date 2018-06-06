@@ -76,6 +76,7 @@
     <project name="rdk/components/generic/iarmmgrs" />
     <project name="rdk/components/generic/injectedbundle" />
     <project name="rdk/components/generic/ledmgr" />
+    <project name="rdk/components/generic/libSyscallWrapper" />
     <project name="rdk/components/generic/libusbctrl" />
     <project name="rdk/components/generic/lxc-container-generator" />
     <project name="rdk/components/generic/lxccpid" />

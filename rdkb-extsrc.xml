@@ -20,6 +20,7 @@
     <project name="rdk/components/generic/breakpad_wrapper" />
     <project name="rdk/components/generic/crashupload" />
     <project name="rdk/components/generic/dcm" />
+    <project name="rdk/components/generic/libSyscallWrapper" />
     <project name="rdk/components/generic/rdk_logger" />
     <project name="rdk/components/generic/rdm" />
     <project name="rdk/components/generic/rfc" />
