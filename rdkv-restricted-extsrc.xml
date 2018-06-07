@@ -79,6 +79,7 @@
     <project name="rdk/components/generic/iarmmgrs" />
     <project name="rdk/components/generic/injectedbundle" />
     <project name="rdk/components/generic/ledmgr" />
+    <project name="rdk/components/generic/libSyscallWrapper" />
     <project name="rdk/components/generic/libusbctrl" />
     <project name="rdk/components/generic/lxc-container-generator" />
     <project name="rdk/components/generic/lxccpid" />
@@ -95,6 +96,7 @@
     <project name="rdk/components/generic/rmf_mediastreamer" />
     <project name="rdk/components/generic/rmf_tools/generate_si_cache" />
     <project name="rdk/components/generic/rmf_tools/tenableHDCP" />
+    <project name="rdk/components/generic/rne" />
     <project name="rdk/components/generic/servicemanager" />
     <project name="rdk/components/generic/servicemanager" path="rdk/components/generic/rdkbrowser/servicemanager" />
     <project name="rdk/components/generic/servicemanager" path="tools/tdk/SM_stub/servicemanager" />
