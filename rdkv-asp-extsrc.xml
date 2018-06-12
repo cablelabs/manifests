@@ -24,7 +24,6 @@
     <project name="components/generic/rdk-oe/devicesettings-hal-sample" />
     <project name="components/generic/rdk-oe/iarmmgrs-hal-sample" />
     <project name="components/generic/rdk-oe/meta-cmf" path="meta-cmf" />
-    <project name="components/generic/rdk-oe/meta-cmf-ci20" path="meta-cmf-ci20" />
     <project name="components/generic/rdk-oe/meta-cmf-qt5" path="meta-cmf-qt5" />
     <project name="components/generic/rdk-oe/meta-cmf-raspberrypi" path="meta-cmf-raspberrypi" />
     <project name="components/generic/rdk-oe/meta-cmf-video" path="meta-cmf-video" />
