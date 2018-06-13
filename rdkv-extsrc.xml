@@ -90,6 +90,7 @@
     <project name="rdk/components/generic/rdkapps" path="rdk/components/generic/rdkbrowser/rdkapps" />
     <project name="rdk/components/generic/rdkbrowser" />
     <project name="rdk/components/generic/rdkbrowser2" />
+    <project name="rdk/components/generic/rdkmediaplayer" />
     <project name="rdk/components/generic/rdm" />
     <project name="rdk/components/generic/rfc" />
     <project name="rdk/components/generic/rmf_mediastreamer" />
