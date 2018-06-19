@@ -134,6 +134,7 @@
     <project name="rdk/devices/intel-x86-pc/emulator/servicemanager" path="rdk/components/generic/servicemanager/platform/rdkemulator" />
     <project name="rdk/devices/intel-x86-pc/emulator/sysint" path="rdk/components/generic/sysint/device" />
     <project name="rdk/devices/raspberrypi/iarmmgrs" />
+    <project name="rdk/devices/raspberrypi/sysint" />
     <project name="rdk/devices/raspberrypi/webpa-client" />
     <project name="rdk/devices/raspberrypi/wifi" />
     <project name="tools/tdk" />
