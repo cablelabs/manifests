@@ -63,6 +63,7 @@
     <project name="devices/raspberrypi/tdk" path="tools/tdk/platform/raspberrypi" />
     <project name="docs" />
     <project name="rdk/components/generic/aamp" />
+    <project name="rdk/components/generic/aampabr" />
     <project name="rdk/components/generic/appmanager" />
     <project name="rdk/components/generic/audiocapturemgr" />
     <project name="rdk/components/generic/bluetooth" />
