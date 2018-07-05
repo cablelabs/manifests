@@ -16,6 +16,7 @@
     <project name="components/generic/dvb/teletext" />
     <project name="components/generic/dvb/ttx_subtitle_utils" />
     <project name="components/generic/dvr" />
+    <project name="components/generic/fog" />
     <project name="components/generic/gst-plugins-rdk" />
     <project name="components/generic/gst-plugins-rdk-dvr" />
     <project name="components/generic/mediaframework" />
