@@ -34,6 +34,7 @@
     <project name="rdk/components/generic/xupnp" />
     <project name="rdk/devices/raspberrypi/webpa-client" />
     <project name="rdkb/components/generic/CcspLogAgent" />
+    <project name="rdkb/components/generic/servicemanager" />
     <project name="rdkb/components/opensource/ccsp/CcspCMAgent" />
     <project name="rdkb/components/opensource/ccsp/CcspCommonLibrary" />
     <project name="rdkb/components/opensource/ccsp/CcspCr" />
@@ -60,7 +61,6 @@
     <project name="rdkb/components/opensource/ccsp/hal" />
     <project name="rdkb/components/opensource/ccsp/halinterface" />
     <project name="rdkb/components/opensource/ccsp/hotspot" />
-    <project name="rdkb/components/opensource/ccsp/servicemanager" />
     <project name="rdkb/components/opensource/ccsp/sysint" />
     <project name="rdkb/components/opensource/ccsp/webui" />
     <project name="rdkb/devices/intel-x86-pc/emulator/sysint" path="rdkb/components/opensource/ccsp/sysint/device" />
