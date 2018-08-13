@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<<<<<<< HEAD
     <project name="rdk/components/opensource/oe/bitbake" path="openembedded-core/bitbake" revision="rdk/morty" />
     <project name="rdk/components/opensource/oe/meta-browser" path="meta-browser" revision="rdk/morty" />
     <project name="rdk/components/opensource/oe/meta-java" path="meta-java" revision="rdk/morty" />
