@@ -9,6 +9,6 @@
     <project name="rdk/components/opensource/oe/meta-virtualization" path="meta-virtualization" revision="rdk/morty" />
     <project name="rdk/components/opensource/oe/openembedded-core" path="openembedded-core" revision="rdk/morty" />
     <project name="rdk/components/opensource/oe/meta-rtlwifi" path="meta-rtlwifi" revision="rdk/morty" />
-    <project name="rdk/components/opensource/oe/meta-jz-mips" path="meta-jz-mips" revision="master" />
+    <project name="rdk/components/opensource/oe/meta-jz-mips" path="meta-jz-mips" revision="rdk/morty" />
     <project name="Metrological/meta-metrological" remote="github" path="meta-metrological" revision="c8a66ff9e2d6c480d0f2f17408cea1d7cadc4885" upstream="master" />
 </manifest>
