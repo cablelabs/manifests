@@ -6,7 +6,7 @@
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
     <default remote="github-cl" revision="master" sync-j="2" />
-
+    <include name="oe-layers.xml" />
     <project name="meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator" />
     <project name="meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator" />
     <project name="meta-cmf" path="meta-cmf" />
@@ -78,10 +78,10 @@
     <project name="rdkb" path="rdkb/components/opensource/ccsp/Utopia/devices" />
     <project name="rdkb" path="rdkb/components/opensource/ccsp/hotspot/devices" />
     <project name="rdkbemu_xb3" path="rdkb/components/opensource/ccsp/xb3" />
-    <project name="rdkb/docs" />
-    <project name="tools/tdk" />
-    <project name="tools/tdkb" />
-    <project name="bitbake" path="openembedded-core/bitbake" revision="rdk/daisy" />
+    <project name="docs" />
+    <project name="tdk" />
+    <project name="tdkb" />
+    <!-- <project name="bitbake" path="openembedded-core/bitbake" revision="rdk/daisy" />
     <project name="meta-browser" path="meta-browser" revision="rdk/daisy" />
     <project name="meta-java" path="meta-java" revision="rdk/daisy" />
     <project name="meta-openembedded" path="meta-openembedded" revision="rdk/daisy" />
@@ -92,5 +92,5 @@
     <project name="openembedded-core" path="openembedded-core" revision="rdk/daisy" />
     <project name="meta-rtlwifi" path="meta-rtlwifi" revision="rdk/daisy" />
     <project name="meta-jz-mips" path="meta-jz-mips" revision="rdk/daisy" />
-    <project name="meta-metrological" remote="github" path="meta-metrological" revision="c8a66ff9e2d6c480d0f2f17408cea1d7cadc4885" upstream="master" />
+    <project name="meta-metrological" remote="github" path="meta-metrological" revision="c8a66ff9e2d6c480d0f2f17408cea1d7cadc4885" upstream="master" /> -->
 </manifest>
