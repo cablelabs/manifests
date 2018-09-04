@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="cmf" review="https://code.rdkcentral.com/r/" fetch="https://code.rdkcentral.com/r/" />
+    <remote name="github" fetch="https://github.com" review="" />
+    <remote name="github-cl" fetch="https://github.com/cablelabs" review="" />
+    <remote name="linaro" fetch="http://git.linaro.org" review="" />
+    <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
+    <default remote="github-cl" revision="master" sync-j="2" />
+
+    <project name="meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator" />
+    <project name="meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator" />
+    <project name="meta-cmf" path="meta-cmf" />
+    <project name="meta-cmf-96boards" path="meta-cmf-96boards" />
+    <project name="meta-cmf-broadband" path="meta-cmf-broadband" />
+    <project name="meta-cmf-ci20" path="meta-cmf-ci20" />
+    <project name="meta-cmf-raspberrypi" path="meta-cmf-raspberrypi" />
+    <project name="meta-rdk" path="meta-rdk" />
+    <project name="meta-rdk-broadband" path="meta-rdk-broadband" />
+    <project name="meta-rdk-ext" path="meta-rdk-ext" />
+    <project name="tdk" path="tools/tdk/platform/emulator" />
+    <project name="tdkb" path="tools/tdkb/platform/raspberrypi" />
+    <project name="breakpad_wrapper" />
+    <project name="crashupload" />
+    <project name="dcm" />
+    <project name="libSyscallWrapper" />
+    <project name="rdk_logger" />
+    <project name="rdm" />
+    <project name="rfc" />
+    <project name="mem_analyser_tools" />
+    <project name="sys_resource" />
+    <project name="syslog_helper" />
+    <project name="xconf-simulator" />
+    <project name="xupnp" />
+    <project name="webpa-client" />
+    <project name="CcspLogAgent" />
+    <project name="servicemanager" />
+    <project name="CcspCMAgent" />
+    <project name="CcspCommonLibrary" />
+    <project name="CcspCr" />
+    <project name="CcspDmCli" />
+    <project name="CcspEPONAgent" />
+    <project name="CcspHomeSecurity" />
+    <project name="CcspLMLite" />
+    <project name="CcspMisc" />
+    <project name="CcspMoCA" />
+    <project name="CcspMtaAgent" />
+    <project name="CcspPandM" />
+    <project name="CcspPsm" />
+    <project name="CcspSnmpPa" />
+    <project name="CcspTr069Pa" />
+    <project name="CcspWifiAgent" />
+    <project name="CcspXDNS" />
+    <project name="FirmwareSanity" />
+    <project name="GwProvApp" />
+    <project name="GwProvApp-ePON" />
+    <project name="PowerManager" />
+    <project name="TestAndDiagnostic" />
+    <project name="Utopia" />
+    <project name="Xconf" />
+    <project name="hal" />
+    <project name="halinterface" />
+    <project name="hotspot" />
+    <project name="sysint" />
+    <project name="webui" />
+    <project name="sysint" path="rdkb/components/opensource/ccsp/sysint/device" />
+    <project name="rdkb/devices/intel-x86-pc/emulator/tdkb" path="tools/tdkb/platform/rdkbemulator" />
+    <project name="rdkb-raspberrypi-hal" path="rdkb/devices/raspberrypi/hal" />
+    <project name="rdkb-raspberrypi-sysint" path="rdkb/components/opensource/ccsp/sysint/devicerpi" />
+    <project name="rdkb" path="rdkb/components/generic/CcspLogAgent/devices" />
+    <project name="rdkb" path="rdkb/components/opensource/ccsp/CcspCr/devices" />
+    <project name="rdkb" path="rdkb/components/opensource/ccsp/CcspLMLite/devices" />
+    <project name="rdkb" path="rdkb/components/opensource/ccsp/CcspPandM/devices" />
+    <project name="rdkb" path="rdkb/components/opensource/ccsp/CcspPsm/devices" />
+    <project name="rdkb" path="rdkb/components/opensource/ccsp/CcspSnmpPa/devices" />
+    <project name="rdkb" path="rdkb/components/opensource/ccsp/CcspTr069Pa/devices" />
+    <project name="rdkb" path="rdkb/components/opensource/ccsp/CcspWifiAgent/devices" />
+    <project name="rdkb" path="rdkb/components/opensource/ccsp/TestAndDiagnostic/devices" />
+    <project name="rdkb" path="rdkb/components/opensource/ccsp/Utopia/devices" />
+    <project name="rdkb" path="rdkb/components/opensource/ccsp/hotspot/devices" />
+    <project name="rdkbemu_xb3" path="rdkb/components/opensource/ccsp/xb3" />
+    <project name="rdkb/docs" />
+    <project name="tools/tdk" />
+    <project name="tools/tdkb" />
+    <project name="bitbake" path="openembedded-core/bitbake" revision="rdk/daisy" />
+    <project name="meta-browser" path="meta-browser" revision="rdk/daisy" />
+    <project name="meta-java" path="meta-java" revision="rdk/daisy" />
+    <project name="meta-openembedded" path="meta-openembedded" revision="rdk/daisy" />
+    <project name="meta-linaro" path="meta-linaro" revision="rdk/daisy" />
+    <project name="meta-qt5" path="meta-qt5" revision="rdk/daisy" />
+    <project name="meta-raspberrypi" path="meta-raspberrypi" revision="rdk/daisy" />
+    <project name="meta-virtualization" path="meta-virtualization" revision="rdk/daisy" />
+    <project name="openembedded-core" path="openembedded-core" revision="rdk/daisy" />
+    <project name="meta-rtlwifi" path="meta-rtlwifi" revision="rdk/daisy" />
+    <project name="meta-jz-mips" path="meta-jz-mips" revision="rdk/daisy" />
+    <project name="meta-metrological" remote="github" path="meta-metrological" revision="c8a66ff9e2d6c480d0f2f17408cea1d7cadc4885" upstream="master" />
+</manifest>
