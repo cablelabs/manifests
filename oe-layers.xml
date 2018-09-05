@@ -6,7 +6,7 @@
     <project name="rdk/components/opensource/oe/meta-openembedded" remote="cmf" path="meta-openembedded" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-linaro" remote="cmf" path="meta-linaro" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-qt5" remote="cmf" path="meta-qt5" revision="rdk/daisy" />
-    <project name="rdk/components/opensource/oe/meta-raspberrypi"  remote="cmf"path="meta-raspberrypi" revision="rdk/daisy" />
+    <project name="rdk/components/opensource/oe/meta-raspberrypi" remote="cmf" path="meta-raspberrypi" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-virtualization" remote="cmf" path="meta-virtualization" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/openembedded-core" remote="cmf" path="openembedded-core" revision="rdk/daisy" />
     <project name="rdk/components/opensource/oe/meta-rtlwifi" remote="cmf" path="meta-rtlwifi" revision="rdk/daisy" />
