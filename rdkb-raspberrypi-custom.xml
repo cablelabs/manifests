@@ -24,8 +24,8 @@
     <project name="dcm" />
     <project name="libSyscallWrapper" />
     <project name="rdk_logger" />
-    <project name="rdm" />
-    <project name="rfc" />
+    <project name="rdk-rdm" />
+    <project name="rdk-rfc" />
     <project name="mem_analyser_tools" />
     <project name="sys_resource" />
     <project name="syslog_helper" />
@@ -57,11 +57,11 @@
     <project name="TestAndDiagnostic" />
     <project name="Utopia" />
     <project name="Xconf" />
-    <project name="hal" />
-    <project name="halinterface" />
-    <project name="hotspot" />
+    <project name="rdkb-hal" />
+    <project name="rdkb-halinterface" />
+    <project name="rdkb-hotspot" />
     <project name="rdkb-sysint" />
-    <project name="webui" />
+    <project name="rdkb-webui" />
     <project name="intel-x86-pc-emulator-sysint" path="rdkb/components/opensource/ccsp/sysint/device" />
     <project name="intel-x86-pc-emulator-tdkb" path="tools/tdkb/platform/rdkbemulator" />
     <project name="rdkb-raspberrypi-hal" path="rdkb/devices/raspberrypi/hal" />

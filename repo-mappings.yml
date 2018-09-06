@@ -8,8 +8,18 @@ rdkb/devices/intel-x86-pc/emulator/tdkb
   - intel-x86-pc-emulator-tdkb
 tools/tdkb
   - tools-tdkb
+rdk/components/generic/rdm
+  - rdk-rdm
+rdk/components/generic/rfc
+  - rdk-rfc
 rdkb/components/opensource/ccsp/hal
-  - hal
+  - rdkb-hal
+rdkb/components/opensource/ccsp/halinterface
+  - rdkb-halinterface
+rdkb/components/opensource/ccsp/hotspot
+  - rdkb-hotspot
+rdkb/components/opensource/ccsp/webui
+  - rdkb-webui
 rdkb/devices/raspberrypi/hal
   - rdkb-raspberrypi-hal
 rdkb/components/opensource/ccsp/sysint
