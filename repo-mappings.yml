@@ -14,6 +14,8 @@ rdk/components/generic/dcm
   - rdk-dcm
 rdk/components/generic/libSyscallWrapper
   - rdk-libSyscallWrapper
+
+  -rdkb-rdk_logger
 rdk/components/generic/rdm
   - rdk-rdm
 rdk/components/generic/rfc
