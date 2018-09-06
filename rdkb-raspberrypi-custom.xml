@@ -58,7 +58,7 @@
     <project name="rdkb-PowerManager" />
     <project name="rdkb-TestAndDiagnostic" />
     <project name="rdkb-Utopia" />
-    <project name="rdkb-" />
+    <project name="rdkb-Xconf" />
     <project name="rdkb-hal" />
     <project name="rdkb-halinterface" />
     <project name="rdkb-hotspot" />
