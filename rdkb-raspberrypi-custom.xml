@@ -23,7 +23,7 @@
     <project name="crashupload" />
     <project name="rdk-dcm" />
     <project name="rdk-libSyscallWrapper" />
-    <project name="rdkb-rdk_logger" />
+    <project name="rdk-rdk_logger" />
     <project name="rdk-rdm" />
     <project name="rdk-rfc" />
     <project name="rdk-sys_mon_tools-mem_analyser_tools" />
