@@ -8,10 +8,61 @@ rdkb/devices/intel-x86-pc/emulator/tdkb
   - intel-x86-pc-emulator-tdkb
 tools/tdkb
   - tools-tdkb
+rdk/components/generic/breakpad_wrapper
+  - rdk-breakpad_wrapper
+rdk/components/generic/dcm
+  - rdk-dcm
+rdk/components/generic/libSyscallWrapper
+  - rdk-libSyscallWrapper
 rdk/components/generic/rdm
   - rdk-rdm
 rdk/components/generic/rfc
   - rdk-rfc
+rdk/components/generic/sys_mon_tools/mem_analyser_tools
+  - rdk-sys_mon_tools-mem_analyser_tools
+rdk/components/generic/sys_mon_tools/sys_resource
+  - rdk-sys_mon_tools-sys_resource
+rdk/components/generic/syslog_helper
+  - rdk-syslog_helper
+rdk/components/generic/xconf-simulator
+  - rdk-xconf-simulator
+rdk/components/generic/xupnp
+  - rdk-xupnp
+rdk/devices/raspberrypi/webpa-client
+  - rdk-raspberrypi-webpa-client
+rdkb/components/generic/CcspLogAgent
+  - rdkb-CcspLogAgent
+rdkb/components/generic/servicemanager
+  - rdkb-servicemanager
+rdkb/components/opensource/ccsp/CcspCMAgent
+  - rdkb-CcspCMAgent
+rdkb/components/opensource/ccsp/CcspCommonLibrary
+  - rdkb-CcspCommonLibrary
+rdkb/components/opensource/ccsp/CcspCr
+  - rdkb-CcspCr
+rdkb/components/opensource/ccsp/CcspDmCli
+  - rdkb-CcspDmCli
+rdkb/components/opensource/ccsp/CcspEPONAgent
+  - rdkb-CcspEPONAgent
+rdkb/components/opensource/ccsp/CcspHomeSecurity
+  - rdkb-CcspHomeSecurity
+rdkb/components/opensource/ccsp/CcspLMLite
+  - rdkb-CcspLMLite
+rdkb/components/opensource/ccsp/CcspMisc
+  - rdkb-CcspMisc
+rdkb/components/opensource/ccsp/CcspMoCA
+  - rdkb-CcspMoCA
+rdkb/components/opensource/ccsp/CcspMtaAgent
+  - rdkb-CcspMtaAgent
+rdkb/components/opensource/ccsp/CcspPandM
+  - rdkb-CcspPandM
+
+
+
+
+
+
+
 rdkb/components/opensource/ccsp/hal
   - rdkb-hal
 rdkb/components/opensource/ccsp/halinterface
