@@ -60,10 +60,10 @@
     <project name="hal" />
     <project name="halinterface" />
     <project name="hotspot" />
-    <project name="sysint" />
+    <project name="rdkb-sysint" />
     <project name="webui" />
-    <project name="sysint" path="rdkb/components/opensource/ccsp/sysint/device" />
-    <project name="rdkb/devices/intel-x86-pc/emulator/tdkb" path="tools/tdkb/platform/rdkbemulator" />
+    <project name="intel-x86-pc-emulator-sysint" path="rdkb/components/opensource/ccsp/sysint/device" />
+    <project name="intel-x86-pc-emulator-tdkb" path="tools/tdkb/platform/rdkbemulator" />
     <project name="rdkb-raspberrypi-hal" path="rdkb/devices/raspberrypi/hal" />
     <project name="rdkb-raspberrypi-sysint" path="rdkb/components/opensource/ccsp/sysint/devicerpi" />
     <project name="rdkb" path="rdkb/components/generic/CcspLogAgent/devices" />
@@ -79,8 +79,8 @@
     <project name="rdkb" path="rdkb/components/opensource/ccsp/hotspot/devices" />
     <project name="rdkbemu_xb3" path="rdkb/components/opensource/ccsp/xb3" />
     <project name="docs" />
-    <project name="tdk" />
-    <project name="tdkb" />
+    <project name="tools-tdk" />
+    <project name="tools-tdkb" />
     <!-- <project name="bitbake" path="openembedded-core/bitbake" revision="rdk/daisy" />
     <project name="meta-browser" path="meta-browser" revision="rdk/daisy" />
     <project name="meta-java" path="meta-java" revision="rdk/daisy" />

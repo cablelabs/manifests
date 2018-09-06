@@ -1,0 +1,20 @@
+devices/intel-x86-pc/rdkemulator/tdk
+  - tdk
+tools/tdk
+  - tools-tdk
+devices/raspberrypi/tdkb
+  - tdkb
+rdkb/devices/intel-x86-pc/emulator/tdkb
+  - intel-x86-pc-emulator-tdkb
+tools/tdkb
+  - tools-tdkb
+rdkb/components/opensource/ccsp/hal
+  - hal
+rdkb/devices/raspberrypi/hal
+  - rdkb-raspberrypi-hal
+rdkb/components/opensource/ccsp/sysint
+  - rdkb-sysint
+rdkb/devices/intel-x86-pc/emulator/sysint
+  - intel-x86-pc-emulator-sysint
+rdkb/devices/raspberrypi/sysint
+  - rdkb-raspberrypi-sysint
