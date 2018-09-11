@@ -4,7 +4,7 @@
     <remote name="github" fetch="https://github.com/cablelabs" review="" />
     <remote name="linaro" fetch="http://git.linaro.org" review="" />
     <remote name="yocto" fetch="http://git.yoctoproject.org/git" review="" />
-    <default remote="github" revision="master" sync-j="2" />
+    <default remote="cmf" revision="master" sync-j="2" />
     <include name="oe-layers.xml" />
     <project name="components/asp/rdk-oe/meta-cmf-bsp-emulator" path="meta-cmf-bsp-emulator" />
     <project name="components/asp/rdk-oe/meta-rdk-bsp-emulator" path="meta-rdk-bsp-emulator" />

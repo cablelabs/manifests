@@ -1,13 +1,12 @@
 devices/intel-x86-pc/rdkemulator/tdk
   - tdk
-tools/tdk
-  - tools-tdk
 devices/raspberrypi/tdkb
   - tdkb
+
+
 rdkb/devices/intel-x86-pc/emulator/tdkb
   - intel-x86-pc-emulator-tdkb
-tools/tdkb
-  - tools-tdkb
+
 rdk/components/generic/breakpad_wrapper
   - rdk-breakpad_wrapper
 rdk/components/generic/dcm
@@ -81,3 +80,20 @@ rdkb/devices/intel-x86-pc/emulator/sysint
   - intel-x86-pc-emulator-sysint
 rdkb/devices/raspberrypi/sysint
   - rdkb-raspberrypi-sysint
+
+
+
+
+
+
+
+
+
+
+
+
+
+  tools/tdk
+    - tools-tdk
+  tools/tdkb
+    - tools-tdkb
