@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="rdk/components/opensource/oe/bitbake" remote="cmf" path="openembedded-core/bitbake" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-browser" remote="cmf" path="meta-browser" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-java" remote="cmf" path="meta-java" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-openembedded" remote="cmf" path="meta-openembedded" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-linaro" remote="cmf" path="meta-linaro" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-qt5" remote="cmf" path="meta-qt5" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-raspberrypi" remote="cmf" path="meta-raspberrypi" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-virtualization" remote="cmf" path="meta-virtualization" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/openembedded-core" remote="cmf" path="openembedded-core" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-rtlwifi" remote="cmf" path="meta-rtlwifi" revision="rdk/morty" />
+    <project name="rdk/components/opensource/oe/meta-jz-mips" remote="cmf" path="meta-jz-mips" revision="rdk/morty" />
+    <project name="Metrological/meta-metrological" remote="github" path="meta-metrological" revision="c8a66ff9e2d6c480d0f2f17408cea1d7cadc4885" upstream="master" />
+</manifest>
