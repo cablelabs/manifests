@@ -61,7 +61,7 @@
     <project name="rdkb-Xconf" />
     <project name="rdkb-hal" />
     <project name="rdkb-halinterface" />
-    <project name="rdkb-hotspot" />
+    <project name="rdkb/components/opensource/ccsp/hotspot" remote="cmf"/>
     <project name="rdkb-sysint" />
     <project name="rdkb-webui" />
     <project name="intel-x86-pc-emulator-sysint" path="rdkb/components/opensource/ccsp/sysint/device" />
