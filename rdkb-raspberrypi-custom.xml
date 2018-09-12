@@ -40,7 +40,7 @@
     <project name="rdkb-CcspDmCli" />
     <project name="rdkb-CcspEPONAgent" />
     <project name="rdkb-CcspHomeSecurity" />
-    <project name="rdkb-CcspLMLite" />
+    <project name="rdkb/components/opensource/ccsp/CcspLMLite" remote="cmf"/>
     <project name="rdkb-CcspMisc" />
     <project name="rdkb-CcspMoCA" />
     <project name="rdkb-CcspMtaAgent" />
