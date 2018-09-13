@@ -81,6 +81,6 @@
     <project name="rdkb" path="rdkb/components/opensource/ccsp/hotspot/devices" />
     <project name="rdkbemu_xb3" path="rdkb/components/opensource/ccsp/xb3" />
     <project name="docs" path="rdkb/docs"/>
-    <project name="tools-tdk" />
-    <project name="tools-tdkb" />
+    <project name="tools-tdk" path="tools/tdk"/>
+    <project name="tools-tdkb" path="tools/tdkb"/>
 </manifest>
